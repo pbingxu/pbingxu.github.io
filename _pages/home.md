@@ -27,7 +27,7 @@ We are a dynamic research group at the [Department of Aeronautical and Aviation 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NLOS_AugmState.tif" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VT_SDR.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
