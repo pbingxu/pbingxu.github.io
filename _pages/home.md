@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "PolyU GNSS Signal Processing Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "GNSS Signal Processing Lab at PolyU."
 sitemap: false
 permalink: /
 ---
