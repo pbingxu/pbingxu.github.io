@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "PolyU GNSS Signal Processing Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "PolyU GNSS Signal Processing Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
