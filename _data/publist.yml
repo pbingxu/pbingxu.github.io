@@ -5,8 +5,7 @@
   link:
     url: https://doi.org/10.1007/s10291-019-0839-x
     display: GPS Solutions 23, 46 (2019)
-  highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  highlight: 1  
 
 - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
   image: TBG_SL.png
