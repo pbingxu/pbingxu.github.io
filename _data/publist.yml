@@ -1,5 +1,5 @@
 - title: "Open-source MATLAB code for GPS vector tracking on a software defined receiver"
-  image: publist-vtsdr.jpg
+  image: publist-vtsdr.png
   description: We developed open-source MATLAB code for GPS VT SDR to enable researchers and scientists to investigate its pros and cons in various applications and under various environments. To achieve this goal, we developed an “equivalent conventional tracking (CT)” SDR as a baseline to compare with VT. The GPS positioning estimator of this equivalent CT is based on an extended Kalman filter (EKF), which has exactly the same state, system, and carrier measurement models and noise tuning method as VT. This baseline provides users with a tool to compare the performance of VT and CT on common ground.
   authors: B Xu, L‑T Hsu
   link:
