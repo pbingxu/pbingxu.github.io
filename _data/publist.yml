@@ -1,16 +1,16 @@
 - title: "Open-source MATLAB code for GPS vector tracking on a software defined receiver"
   image: publist-vtsdr.tif
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+  description: We develop an open-source MATLAB code for GPS vector tracking SDR to enable researchers and scientists to investigate its pros and cons in various applications and under various environments.
   authors: B Xu, L‑T Hsu
   link:
     url: https://doi.org/10.1007/s10291-019-0839-x
     display: GPS Solutions 23, 46 (2019)
   highlight: 1  
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+- title: "Vector Tracking Loop-Based GNSS NLOS Detection and Correction: Algorithm Design and Performance Analysis"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  description: In this work, we analyzed the NLOS effects on both STLs and VTLs mathematically, based on which an NLOS detection and correction algorithm using the VTL was proposed. We used the metric of equivalent noise bandwidth of VTL to find potential NLOS reception and then confirmed it using the time delay of multicorrelator peaks and code discriminator output. The NLOS-induced measurement error was furtherly corrected before being fed forward into the Kalman filter.
+  authors: B Xu, Q Jia, and L-T Hsu
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  arXiv:2107.14716 (2021)
