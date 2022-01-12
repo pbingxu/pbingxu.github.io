@@ -120,7 +120,16 @@
   highlight: 0 
   news2:
 
-
+- title: "Performance assessment of GNSS scalar and vector frequency tracking loops"
+  image: 
+  description: 
+  authors: J. Dou, B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1016/j.ijleo.2019.163552
+    display: Optik 202:163552 (2019)
+  highlight: 0
+  news2:
+  
 
 
 
