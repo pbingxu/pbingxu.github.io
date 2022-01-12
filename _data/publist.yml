@@ -110,6 +110,18 @@
 
 
   
+- title: "Research on Time-Correlated Errors Using Allan Variance in a Kalman Filter Applicable to Vector-Tracking-Based GNSS Software-Defined Receiver for Autonomous Ground Vehicle Navigation"
+  image:  
+  description: 
+  authors: Y. Luo, J. Li, C. Yu, B. Xu, L. You, L.-T. Hsu
+  link:
+    url: https://doi.org/10.3390/rs11091026
+    display: Remote Sens. 11(9):1026 (2019)
+  highlight: 0 
+  news2:
+
+
+  
 - title: "A GPS Spoofing Generator Using an Open Sourced Vector Tracking-Based Receiver"
   image:  
   description: 
@@ -119,6 +131,7 @@
     display: Sensors 19(18):3993 (2019)
   highlight: 0 
   news2:
+
 
 - title: "Performance assessment of GNSS scalar and vector frequency tracking loops"
   image: 
@@ -132,6 +145,40 @@
   
 
 
+- title: "GNSS IF Signal Simulation Considering Oscillator Phase Noise"
+  image: 
+  description: 
+  authors: B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1017/S0373463318000036
+    display: The Journal of Navigation 71(4):805-820 (2018)
+  highlight: 0
+  news2:
+  
+
+
+- title: "Benefits of long coherent integration for CZT-based GPS signal acquisition"
+  image: 
+  description: 
+  authors: B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1049/el.2018.0984
+    display: Electronics Letters 54(16):995-997 (2018)
+  highlight: 0
+  news2:
+  
+
+
+- title: "Novel acquisition of global positioning system signals based on parameter prediction and the chirp z-transform"
+  image: 
+  description: 
+  authors: B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1177/0954410016652151
+    display: Proceedings of the	Institution of Mechanical	Engineers, Part G: Journal of Aerospace Engineering 231(8):1391-1401 (2017)
+  highlight: 0
+  news2:
+  
 
 
 
