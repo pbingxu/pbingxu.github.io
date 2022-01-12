@@ -30,6 +30,7 @@
   highlight: 0
   news2:
   
+  
 - title: "GNSS RUMS: GNSS Realistic Urban Multiagent Simulator for Collaborative Positioning Research"
   image: 
   description: 
@@ -44,7 +45,7 @@
 - title: "Vector Tracking Loop-Based GNSS NLOS Detection and Correction: Algorithm Design and Performance Analysis"
   image: publist-tim 2020 nlos.jpg
   description: In this work, we analyzed the NLOS effects on both STLs and VTLs mathematically, based on which an NLOS detection and correction algorithm using the VTL was proposed. We used the metric of equivalent noise bandwidth of VTL to find potential NLOS reception and then confirmed it using the time delay of multicorrelator peaks and code discriminator output. The NLOS-induced measurement error was furtherly corrected before being fed forward into the Kalman filter.
-  authors: B. Xu, Q. Jia, and L.-T. Hsu
+  authors: B. Xu, Q. Jia, L.-T. Hsu
   link:
     url: https://ieeexplore.ieee.org/document/8887530
     display: IEEE Transactions on Instrumentation and Measurement 69(7):4604-4619 (2020)
@@ -73,8 +74,7 @@
   highlight: 0
   news2:
   
-    
-    
+        
 - title: "An intelligent joint filter for vector tracking loop considering noise interference"
   image: 
   description: 
@@ -84,8 +84,7 @@
     display: Optik 22:164984 (2020)
   highlight: 0
   news2:
-  
-  
+    
   
 - title: "Open-source MATLAB code for GPS vector tracking on a software defined receiver"
   image: publist-vtsdr.png
