@@ -1,31 +1,128 @@
+- title: "Probabilistic Approach to Detect and Correct GNSS NLOS Signals Using an Augmented State Vector in the Extended Kalman Filter"
+  image: 
+  description: 
+  authors: C. Jiang, B. Xu*, and L.-T. Hsu
+  link:
+    url: https://doi.org/10.1007/s10291-021-01101-6
+    display: GPS Solutions 25, 72 (2021)
+  highlight: 0
+  news2: 
+  
+    
+- title: "Impact assessment of the asynchronous clocks between reference and user receivers in differential pseudolite navigation system"
+  image: 
+  description: 
+  authors: J. Dou, B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1109/JSEN.2020.3014103
+    display: IEEE Sensors Journal 21(1):403-411 (2021)
+  highlight: 0
+  news2:
+  
+    
+- title: "A cost-effective beam forming structure for global navigation satellite system multipath mitigation and its assessment"
+  image: 
+  description: 
+  authors: Q. Jia, L.-T. Hsu, B. Xu, and R. Wu 
+  link:
+    url: https://doi.org/10.1017/S0373463320000648
+    display: The Journal of Navigation 74:2 (2021)
+  highlight: 0
+  news2:
+  
+- title: "GNSS RUMS: GNSS Realistic Urban Multiagent Simulator for Collaborative Positioning Research"
+  image: 
+  description: 
+  authors: G. Zhang, B. Xu, H.-F. Ng, L.-T. Hsu 
+  link:
+    url: https://doi.org/10.3390/rs13040544
+    display: Remote Sensing 13(4):544 (2021)
+  highlight: 0
+  news2:
+  
+  
+- title: "Vector Tracking Loop-Based GNSS NLOS Detection and Correction: Algorithm Design and Performance Analysis"
+  image: publist-tim 2020 nlos.jpg
+  description: In this work, we analyzed the NLOS effects on both STLs and VTLs mathematically, based on which an NLOS detection and correction algorithm using the VTL was proposed. We used the metric of equivalent noise bandwidth of VTL to find potential NLOS reception and then confirmed it using the time delay of multicorrelator peaks and code discriminator output. The NLOS-induced measurement error was furtherly corrected before being fed forward into the Kalman filter.
+  authors: B. Xu, Q. Jia, and L.-T. Hsu
+  link:
+    url: https://ieeexplore.ieee.org/document/8887530
+    display: IEEE Transactions on Instrumentation and Measurement 69:7 (2020)
+  highlight: 1
+  news2:
+  
+  
+- title: "Extending Shadow Matching to Tightly-Coupled GNSS/INS Integration Systems"
+  image: 
+  description: 
+  authors: G. Zhang, W. Wen, B. Xu, L.-T. Hsu
+  link:
+    url: https://doi.org/10.1109/TVT.2020.2981093
+    display: IEEE Transactions on Vehicular Technology 69(5):4979-4991 (2020)
+  highlight: 0
+  news2:
+  
+  
+- title: "Integrity monitoring using multi-GNSS pseudorange observations in the urban environment combining ARAIM and 3D city models"
+  image: 
+  description: 
+  authors: A. El-Mowafy, B. Xu, L.-T. Hsu
+  link:
+    url: https://doi.org/10.1080/14498596.2020.1734109
+    display: Journal of Spatial Science (2020)
+  highlight: 0
+  news2:
+  
+    
+    
+- title: "An intelligent joint filter for vector tracking loop considering noise interference"
+  image: 
+  description: 
+  authors: J. Dou, B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1016/j.ijleo.2020.164984
+    display: Optik 22:164984 (2020)
+  highlight: 0
+  news2:
+  
+  
+  
 - title: "Open-source MATLAB code for GPS vector tracking on a software defined receiver"
   image: publist-vtsdr.png
   description: We developed open-source MATLAB code for GPS VT SDR to enable researchers and scientists to investigate its pros and cons in various applications and under various environments. To achieve this goal, we developed an “equivalent conventional tracking (CT)” SDR as a baseline to compare with VT. The GPS positioning estimator of this equivalent CT is based on an extended Kalman filter (EKF), which has exactly the same state, system, and carrier measurement models and noise tuning method as VT. This baseline provides users with a tool to compare the performance of VT and CT on common ground.
-  authors: B Xu, L‑T Hsu*
+  authors: B. Xu, L.‑T. Hsu
   link:
     url: https://doi.org/10.1007/s10291-019-0839-x
     display: GPS Solutions 23, 46 (2019)
   highlight: 1 
   news2:
 
-- title: "Vector Tracking Loop-Based GNSS NLOS Detection and Correction: Algorithm Design and Performance Analysis"
-  image: publist-tim 2020 nlos.jpg
-  description: In this work, we analyzed the NLOS effects on both STLs and VTLs mathematically, based on which an NLOS detection and correction algorithm using the VTL was proposed. We used the metric of equivalent noise bandwidth of VTL to find potential NLOS reception and then confirmed it using the time delay of multicorrelator peaks and code discriminator output. The NLOS-induced measurement error was furtherly corrected before being fed forward into the Kalman filter.
-  authors: B Xu, Q Jia, and L-T Hsu*
+   
+- title: "Intelligent GPS L1 LOS/Multipath/NLOS Classifiers Based on Correlator-, RINEX- and NMEA-Level Measurements"
+  image:  
+  description: 
+  authors: B. Xu, Q. Jia, Y. Luo, L.‑T. Hsu
   link:
-    url: https://ieeexplore.ieee.org/document/8887530
-    display: IEEE Transactions on Instrumentation and Measurement 69:7 (2020)
-  highlight: 1
+    url: https://doi.org/10.3390/rs11161851
+    display: Remote Sens. 11(16):1851 (2019)
+  highlight: 0 
   news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+
+  
+- title: "A GPS Spoofing Generator Using an Open Sourced Vector Tracking-Based Receiver"
+  image:  
+  description: 
+  authors: Q. Meng, L.-T. Hsu, B. Xu, X. Luo
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+    url: https://doi.org/10.3390/s19183993
+    display: Sensors 19(18):3993 (2019)
+  highlight: 0 
+  news2:
+
+
+
+
+
 
 
