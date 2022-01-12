@@ -1,7 +1,7 @@
 - name: Bing Xu
   photo: XU BING.jpg
   info: Research Assistant professor, started April 2020
-  email: pbing.xu@polyu.edu.hk
+  email: <a href="mailto:cywen@polyu.edu.hk">pbing.xu@polyu.edu.hk</a></i></p>
   number_educ: 3
   education1: 2012, BEng, Network Engineering, Nanjing University of Science and Technology (NJUST), China
   education2: 2018, PhD, Navigation, Guidance and Control, NJUST, China
@@ -9,7 +9,7 @@
   
 - name: Sergio Vicenzo
   photo: Sergio.jpg
-  info: Postdoc, started Oct 2019
+  info: Member of Undergraduate Research and Innovation Scheme (URIS), PolyU
   email: ge@Physics.LeidenUniv.nl
   number_educ: 3
   education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
