@@ -1,6 +1,6 @@
 - name: Bing Xu
   photo: XU BING.jpg
-  info: Research Assistant professor, started April 2020
+  info: Research Assistant professor, started from April 2020
   email: pbing.xu@polyu.edu.hk
   number_educ: 3
   education1: Postdoc, <a href="https://www.polyu.edu.hk/en/aae/">AAE</a>, PolyU, 2018-2020
@@ -9,26 +9,24 @@
   
 - name: Sergio Vicenzo
   photo: Sergio.jpg
-  info: Student Assistant
+  info: PhD Student, to start from Sep 2022
   email: sergio.vicenzo@connect.polyu.hk
   number_educ: 1
-  education1: BEng (Honours) in Aviation Engineering
+  education1: BEng (Honours), Aviation Engineering, PolyU
 
 - name: Jingxiaotao Fang
   photo: FangJingxiaotao.jpg
-  info: Postdoc, started Oct 2020
+  info: MPhil Student, to start from Sep 2022
   email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  number_educ: 1
+  education1: BEng (Honours), Aviation Engineering, PolyU 
 
 - name: Jason Marcelino
   photo: Jason.jpg
-  info: Postdoc, started July 2021
+  info: MPhil Student, to start from Sep 2022
   email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
+  number_educ: 1
+  education1: BEng (Honours), Aviation Engineering, PolyU  
 
 - name: "This could be you !"
   photo: rock.jpg
