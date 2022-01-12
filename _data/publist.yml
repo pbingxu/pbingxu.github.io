@@ -157,7 +157,7 @@
 
 
 - title: "Benefits of long coherent integration for CZT-based GPS signal acquisition"
-  image: publist-electronics lett-2018.png
+  image: publist-electr lett.png
   description: In this work, we improve the acquisition precision and sensitivity of the CZT-based acquisition by extending coherent integration time. To reduce computation load, we introduce a down-sampling operation to the extended data without degrading acquisition performance. Results show that the CZT-based acquisition with a coherent integration time of 10 ms obtains a frequency error of 5.9 Hz for the carrier-to-noise ratio (CNR) of 25 dB-Hz and can acquire signals with a CNR down to 22 dB-Hz.
   authors: B. Xu, L. Dou
   link:
