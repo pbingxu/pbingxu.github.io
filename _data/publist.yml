@@ -1,3 +1,14 @@
+- title: "Carrier-Aided Dual Frequency Vectorized Tracking Architecture for NavIC Signals"
+  image: 
+  description: 
+  authors: A. Dey, K. Iyer, B. Xu, N. Sharma, and L.-T. Hsu
+  link:
+    url: 
+    display: IEEE Transactions on Instrumentation and Measurement (Accepted) (2021)
+  highlight: 0
+  news2: 
+  
+    
 - title: "Probabilistic Approach to Detect and Correct GNSS NLOS Signals Using an Augmented State Vector in the Extended Kalman Filter"
   image: 
   description: 
@@ -8,7 +19,8 @@
   highlight: 0
   news2: 
   
-    
+  
+  
 - title: "Impact assessment of the asynchronous clocks between reference and user receivers in differential pseudolite navigation system"
   image: 
   description: 
