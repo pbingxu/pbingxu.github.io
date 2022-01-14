@@ -24,7 +24,7 @@ We are a dynamic research group at the [Department of Aeronautical and Aviation 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPSS_VTSDR.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPSS_VTSDR_ccexpress.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPSS_Jiang.png" alt="Slide 2" />
