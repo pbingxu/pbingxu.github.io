@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). Currently, we are working on advanced GNSS signal processing such as vector tracking loop (VTL), direct position estimation (DPE), etc., with applications to multipath, interference, spoofing, etc. We are also doing research on the integration of GNSS and cellular positioning for combating GNSS-challenging environments. see [Research](research) for more details.
+We are a dynamic research group at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). Currently, we are working on advanced GNSS signal processing such as **vector tracking loop (VTL)**, **direct position estimation (DPE)**, etc., with applications to multipath, interference, spoofing, etc. We are also doing research on the integration of GNSS and **cellular** positioning for combating GNSS-challenging environments. see [Research](research) for more details.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -41,7 +41,7 @@ We are a dynamic research group at the [Department of Aeronautical and Aviation 
 </div>
 
 
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+We are  looking for passionate new **PhD students**, **Postdocs**, and **Master students** to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from PolyU, [The National Natural Science Foundation (NSFC) of China](https://www.nsfc.gov.cn/english/site_1/index.html), [Research Grants Council (RGC) of Hong Kong](https://www.ugc.edu.hk/eng/rgc/), etc.
