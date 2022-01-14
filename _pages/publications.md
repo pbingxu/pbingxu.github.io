@@ -55,7 +55,8 @@ permalink: /publications/
 
 
 
-## Journal Papers (*: Corresponding author)
+## Journal Papers ()
+(*: Corresponding author)
 
 {% for publi in site.data.publist %}
 
