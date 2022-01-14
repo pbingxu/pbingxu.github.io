@@ -1,0 +1,42 @@
+- title: "Intermediate Frequency Level GPS Multipath Simulator based on Vector Tracking and Ray-tracing"
+  image: 
+  description: 
+  authors: B. Xu, L.-T. Hsu, and T. Suzuki
+  link:
+    url: https://www.ion.org/publications/abstract.cfm?articleID=17140
+    display: ION ITM 2020, San Diego, California, January 21-24, 2020
+  highlight: 0
+  news2: 
+  
+    
+- title: "NLOS Detection and Compensation using a Vector Tracking-based GPS Software Receiver"
+  image: 
+  description: 
+  authors: B. Xu, L.-T. Hsu
+  link:
+    url: https://www.ion.org/publications/abstract.cfm?articleID=16777
+    display: ION PNT 2019, Honolulu, Hawaii, April 8-11, 2019
+  highlight: 0
+  news2: 
+  
+- title: "Assessment of Ultra-Tightly Coupled GNSS/INS Integration System towards Autonomous Ground Vehicle Navigation Using Mobile-Phone IMU"
+  image: 
+  description: 
+  authors: Y. Luo, C. Yu,  B. Xu, G.-J. Tsai, J. Li, Y. Li, N. El-Sheimy
+  link:
+    url: https://ieeexplore.ieee.org/document/9173292
+    display: IEEE International Conference on Signal, Information and Data Processing 2019, Chongqing, China, December 11-13, 2019
+  highlight: 0
+  news2: 
+  
+- title: "Performance of the Vector Tracking Loop Assisted by Desired Trajectory during Short Signal Outages"
+  image: 
+  description: 
+  authors: B. Xu, L. Dou
+  link:
+    url: https://ieeexplore.ieee.org/document/7828817
+    display: Proceedings of 2016 IEEE Chinese Guidance, Navigation and Control Conference August 12-14, 2016 Nanjing, China
+  highlight: 0
+  news2: 
+  
+  
