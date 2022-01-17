@@ -1,13 +1,14 @@
 ---
-title: "PolyU GNSS Signal Processing Group - Home"
+title: "PolyU GNSS Signal Processing - Home"
 layout: homelay
-excerpt: "GNSS Signal Processing Group at PolyU."
+excerpt: "GNSS Signal Processing at PolyU."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). Currently, we are working on advanced GNSS signal processing such as **vector tracking loop (VTL)**, **direct position estimation (DPE)**, etc., with applications to multipath, interference, spoofing, and so on. We are also interested in the integration of GNSS and **cellular positioning** for combating GNSS-challenging environments. We are working closely with the [Intelligent Positioning and Navigation Laboratory (IPNL)](https://www.polyu-ipn-lab.com/) led by [Dr Li-Ta Hsu]( https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/).
-See [Research](research) for more details.
+I am a Research Assistant Professor at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). Currently, I am working on advanced GNSS signal processing such as **vector tracking loop (VTL)**, **direct position estimation (DPE)**, etc., with applications to multipath, interference, spoofing, and so on. I am also interested in the integration of GNSS and **cellular positioning** for combating GNSS-challenging environments. I am a member of the [Intelligent Positioning and Navigation Laboratory (IPNL)](https://www.polyu-ipn-lab.com/) led by [Dr Li-Ta Hsu]( https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/).
+See [Research](research) for more details of my research works.
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -42,7 +43,7 @@ See [Research](research) for more details.
 </div>
 
 
-We are  looking for passionate new **PhD students**, **Postdocs**, and **Master students** to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+I am looking for passionate new **PhD students**, **Postdocs**, and **Master students**![(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from PolyU, [The National Natural Science Foundation (NSFC) of China](https://www.nsfc.gov.cn/english/site_1/index.html), [Research Grants Council (RGC) of Hong Kong](https://www.ugc.edu.hk/eng/rgc/), etc.
