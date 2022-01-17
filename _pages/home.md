@@ -42,7 +42,7 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
 </div>
 
 
-I am looking for passionate new **PhD students**, **Postdocs**, and **Master students**![(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+I am looking for passionate new **PhD students**, **Postdocs**, and **Master students**![(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** If you have a strong interest in my research area, please send me 1) a statement about what you plan to do with me, 2) your CV, 3) transcripts, and 4) any other supporting documents.
 
 
 We are grateful for funding from PolyU, [The National Natural Science Foundation (NSFC) of China](https://www.nsfc.gov.cn/english/site_1/index.html), [Research Grants Council (RGC) of Hong Kong](https://www.ugc.edu.hk/eng/rgc/), etc.
