@@ -1,7 +1,7 @@
 ---
-title: "PolyU GNSS Signal Processing Group - Publications"
+title: "PolyU GNSS Signal Processing - Publications"
 layout: gridlay
-excerpt: "PolyU GNSS Signal Processing Group -- Publications."
+excerpt: "PolyU GNSS Signal Processing - Publications."
 sitemap: false
 permalink: /publications/
 ---
