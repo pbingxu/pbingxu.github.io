@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "PolyU GNSS Signal Processing - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "PolyU GNSS Signal Processing -- Pictures"
 permalink: /pictures/
 ---
 
