@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am a Research Assistant Professor at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). Currently, I am working on advanced GNSS signal processing such as **vector tracking loop (VTL)**, **direct position estimation (DPE)**, etc., with applications to multipath, interference, spoofing, and so on. I am also interested in the integration of GNSS and **cellular positioning** for combating GNSS-challenging environments. I am a member of the [Intelligent Positioning and Navigation Laboratory (IPNL)](https://www.polyu-ipn-lab.com/) led by [Dr Li-Ta Hsu]( https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/).
+I am a Research Assistant Professor at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). Currently, I am working on advanced GNSS signal processing such as **vector tracking loop (VTL)**, **direct position estimation (DPE)**, etc., with applications to multipath, interference, spoofing, and so on. I am also interested in the integration of GNSS and **cellular positioning** for combating GNSS-challenging environments.
 
 
 
