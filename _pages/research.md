@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "PolyU GNSS Signal Processing - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "PolyU GNSS Signal Processing -- Research"
 sitemap: false
 permalink: /research/
 ---
