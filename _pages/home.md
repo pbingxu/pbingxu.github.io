@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). Currently, we are working on advanced GNSS signal processing such as **vector tracking loop (VTL)**, **direct position estimation (DPE)**, etc., with applications to multipath, interference, spoofing, and so on. We are also interested in the integration of GNSS and **cellular positioning** for combating GNSS-challenging environments. We are working closely with the [Intelligent Positioning and Navigation Laboratory (IPNL)] (https://www.polyu-ipn-lab.com/) led by [Dr Li-Ta Hsu]( https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/).
+We are a dynamic research group at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). Currently, we are working on advanced GNSS signal processing such as **vector tracking loop (VTL)**, **direct position estimation (DPE)**, etc., with applications to multipath, interference, spoofing, and so on. We are also interested in the integration of GNSS and **cellular positioning** for combating GNSS-challenging environments. We are working closely with the [Intelligent Positioning and Navigation Laboratory (IPNL)](https://www.polyu-ipn-lab.com/) led by [Dr Li-Ta Hsu]( https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/).
 See [Research](research) for more details.
 
 
