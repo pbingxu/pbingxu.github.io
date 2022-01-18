@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## Research grants
 
-As the role of PI: 
+As the role of PI:<br> 
 Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 1 Jan 2022~31 Dec 2024, NSFC for Young Scholar 國家自然科學基金委員會青年科學基金項目 <br>
 <br>
 
@@ -22,11 +22,11 @@ Security reinforcement for high-precision fusion positioning, 1 Dec 2021 ~ 30 Se
 A-GNSS Based Direct Position Estimation: Modelling, Implementation and Performance Assessment, 15 Mar 2021~14 Mar 2023, PolyU Start-up Fund for RAPs under the Strategic Hiring Scheme <br>
 <br>
 
-As the role of Co-PI: 
+As the role of Co-PI: <br>
 Reliable Multiagent Collaborative Global Navigation Satellite System Positioning for Intelligent Transportation Systems, 2022~2024, RGC Research Impact Fund Scheme (RIF) <br>
 <br>
 
-As the role of Co-I: 
+As the role of Co-I: <br>
 Unlocking the potential of AI edge intelligence and cloud-edge computing for flexible robotic and facility control system, 2 Jul 2021 ~ 1 Jul 2023, Innovation and Technology Fund - Partnership Research Programme (ITF-PRP)<br>
 <br>
 
