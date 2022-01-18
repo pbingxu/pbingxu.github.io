@@ -33,6 +33,16 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NavIC_DualFreq_ccexpress.png" alt="Slide 3" />
         </div>
+        
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_remotesensing_ccexpress.png" alt="Slide 3" />
+        </div>
+        
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_appliedscience_ccexpress.png" alt="Slide 3" />
+        </div>
+        
+        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
