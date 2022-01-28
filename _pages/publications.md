@@ -10,9 +10,9 @@ permalink: /publications/
 ## Research grants
 
 As the role of **PI**:<br> 
-- Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 1 Jan 2022~31 Dec 2024, NSFC for Young Scholar 國家自然科學基金委員會青年科學基金項目 <br>
+- Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 1 Jan 2022~31 Dec 2024, NSFC for Young Scholar<br>
 
-- Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 1 Jan 2022~31 Dec 2024, 广东省自然科学基金-面上项目 <br>
+- Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 1 Jan 2022~31 Dec 2024<br>
 
 - Security reinforcement for high-precision fusion positioning, 1 Dec 2021 ~ 30 Sep 2024, Huawei Technologies Co. Ltd. (Collaborative) <br>
 
