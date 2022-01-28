@@ -10,7 +10,7 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
 
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
