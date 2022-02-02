@@ -5,20 +5,13 @@ excerpt: "PolyU GNSS Signal Processing -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
-
-
-
 # Gallery
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
-{% if even_odd == 0 %}
-    <div class="row">
-{% endif %}
+
 
   <div class="col-sm-3 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
