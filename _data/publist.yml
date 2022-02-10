@@ -1,3 +1,13 @@
+- title: "Vector Tracking Based on Factor Graph Optimization for GNSS NLOS Bias Estimation and Correction"
+  image: 
+  description: 
+  authors: C. Jiang, Y. Chen, B. Xu, J. Jia, H. Sun, T. Wang, Z. Duan, and J. Hyyppä
+  link:
+    url: 
+    display: IEEE Internet of Things Journal, Accepted (2022)
+  highlight: 0
+  news2: 
+  
 - title: "Carrier-Aided Dual Frequency Vectorized Tracking Architecture for NavIC Signals"
   image: 
   description: 
@@ -8,7 +18,7 @@
   highlight: 0
   news2: 
   
-    
+  
 - title: "Probabilistic Approach to Detect and Correct GNSS NLOS Signals Using an Augmented State Vector in the Extended Kalman Filter"
   image: 
   description: 
