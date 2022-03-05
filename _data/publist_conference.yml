@@ -1,3 +1,13 @@
+- title: "3DMA Sky Visibility Matching: An Example using a Simulated LEO Constellation"
+  image: 
+  description: 
+  authors: H. Xu, B. Xu and L.-T. Hsu
+  link:
+    url: 
+    display: Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2022, pp. 686-700
+  highlight: 0
+  news2: 
+
 - title: "Adaptive GNSS Positioning Strategy Switching: Metric Modelling, Algorithm Design and Performance Analysis"
   image: 
   description: 
@@ -7,7 +17,6 @@
     display: The International Conference on Smart Living, Hong Kong, March 31-April 1, 2022
   highlight: 0
   news2: 
-
 
 
 - title: "Ultra-tight GNSS/UWB integration for seamless indoor/outdoor pedestrian navigation"
