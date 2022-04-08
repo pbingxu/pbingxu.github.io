@@ -11,7 +11,7 @@
 - title: "Carrier-Aided Dual Frequency Vectorized Tracking Architecture for NavIC Signals"
   image: 
   description: 
-  authors: A. Dey, K. Iyer, B. Xu*, N. Sharma, and L.-T. Hsu
+  authors: A. Dey#, K. Iyer, B. Xu*, N. Sharma, and L.-T. Hsu
   link:
     url: https://ieeexplore.ieee.org/document/9694612
     display: IEEE Transactions on Instrumentation and Measurement, 71:1-13 (2022)
