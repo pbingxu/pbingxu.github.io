@@ -10,11 +10,10 @@ permalink: /publications/
 ## Research grants
 
 As the role of **PI**:<br> 
-- Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 1 Jan 2022~31 Dec 2024, NSFC for Young Scholar 國家自然科學基金委員會青年科學基金項目<br>
-
-- Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 廣東省基礎與應用基礎研究項目, 1 Jan 2022~31 Dec 2024<br>
-
+- Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 1 Jan 2022~31 Dec 2024, NSFC for Young Scholar<br>
 - Security reinforcement for high-precision fusion positioning, 1 Dec 2021 ~ 30 Sep 2024, Huawei Technologies Co. Ltd. (Collaborative) <br>
+- Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 1 Jan 2022~31 Dec 2024, Guangdong Natural Science Foundation<br>
+
 
 - A-GNSS Based Direct Position Estimation: Modelling, Implementation and Performance Assessment, 15 Mar 2021~14 Mar 2023, PolyU Start-up Fund for RAPs under the Strategic Hiring Scheme <br>
 
@@ -80,7 +79,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of Feb 2022 - Websit
 
 
 ## Journal Papers
-(*: Corresponding author)
+(*: Corresponding author, #: Student author)
 
 {% for publi in site.data.publist %}
 
