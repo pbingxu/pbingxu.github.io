@@ -27,7 +27,7 @@ As the role of **Co-I**: <br>
 
 - Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 25 Dec 2018 ~ 24 Jan 2020, 9.	Ultra-Tightly Coupled GNSS/INS Integration for Smartphone<br>
 
-See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of Feb 2022 - Website.pdf) for more details.
+See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Website.pdf) for more details.
 
 
 
