@@ -1,0 +1,69 @@
+     
+- title: "An intelligent joint filter for vector tracking loop considering noise interference"
+  image: 
+  description: 
+  authors: J. Dou, B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1016/j.ijleo.2020.164984
+    display: Optik 22:164984 (2020)
+  highlight: 0
+  news2:
+    
+  
+- title: "Open-source MATLAB code for GPS vector tracking on a software defined receiver"
+  image: publist-vtsdr.png
+  description: We developed open-source MATLAB code for GPS VT SDR to enable researchers and scientists to investigate its pros and cons in various applications and under various environments. To achieve this goal, we developed an “equivalent conventional tracking (CT)” SDR as a baseline to compare with VT. The GPS positioning estimator of this equivalent CT is based on an extended Kalman filter (EKF), which has exactly the same state, system, and carrier measurement models and noise tuning method as VT. This baseline provides users with a tool to compare the performance of VT and CT on common ground.
+  authors: B. Xu, L.‑T. Hsu
+  link:
+    url: https://doi.org/10.1007/s10291-019-0839-x
+    display: GPS Solutions 23, 46 (2019)
+  highlight: 1 
+  news2:
+
+   
+- title: "Intelligent GPS L1 LOS/Multipath/NLOS Classifiers Based on Correlator-, RINEX- and NMEA-Level Measurements"
+  image: publist-remotesensing-highlights.png
+  description: In this paper, a fair comparison among NMEA-, RINEX-, and correlator-level GNSS signal type (LOS/MP/NLOS) classifiers is carried out on a common ground by a software defined receiver. Results show that the correlator-level classifier improves the metric of F1 score by about 25% over the conventional NMEA- and RINEX-level classifiers for testing data collected at different places to that of training data. In addition to this finding, correlator-level classifier is found to be more feasible in practical applications due to its less dependency on surrounding scenarios compared with the NMEA/RINEX-level classifiers.
+  authors: B. Xu, Q. Jia, Y. Luo, L.‑T. Hsu
+  link:
+    url: https://doi.org/10.3390/rs11161851
+    display: Remote Sens. 11(16):1851 (2019)
+  highlight: 1 
+  news2:
+
+
+  
+- title: "Research on Time-Correlated Errors Using Allan Variance in a Kalman Filter Applicable to Vector-Tracking-Based GNSS Software-Defined Receiver for Autonomous Ground Vehicle Navigation"
+  image: 
+  description: 
+  authors: Y. Luo, J. Li, C. Yu, B. Xu, L. You, L.-T. Hsu
+  link:
+    url: https://doi.org/10.3390/rs11091026
+    display: Remote Sens. 11(9):1026 (2019)
+  highlight: 0 
+  news2:
+
+
+  
+- title: "A GPS Spoofing Generator Using an Open Sourced Vector Tracking-Based Receiver"
+  image:  
+  description: 
+  authors: Q. Meng, L.-T. Hsu, B. Xu, X. Luo
+  link:
+    url: https://doi.org/10.3390/s19183993
+    display: Sensors 19(18):3993 (2019)
+  highlight: 0 
+  news2:
+
+
+- title: "Performance assessment of GNSS scalar and vector frequency tracking loops"
+  image: 
+  description: 
+  authors: J. Dou, B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1016/j.ijleo.2019.163552
+    display: Optik 202:163552 (2019)
+  highlight: 0
+  news2:
+  
+
