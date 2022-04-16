@@ -81,7 +81,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Webs
 ## Journal Papers
 (*: Corresponding author, #: Student author)
 
-# 2022
+#### 2022
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
@@ -89,7 +89,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Webs
 
 {% endfor %}
 
-# 2021
+#### 2021
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
@@ -97,7 +97,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Webs
 
 {% endfor %}
 
-# 2020
+#### 2020
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
@@ -105,7 +105,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Webs
 
 {% endfor %}
 
-# 2019
+#### 2019
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
@@ -113,7 +113,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Webs
 
 {% endfor %}
 
-# 2018
+#### 2018
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
@@ -121,7 +121,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Webs
 
 {% endfor %}
 
-# 2017
+#### 2017
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
