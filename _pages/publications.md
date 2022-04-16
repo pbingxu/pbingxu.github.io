@@ -90,7 +90,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Webs
 {% endfor %}
 
 #### 2021
-{% for publi in site.data.publist_2021 %}
+{% for publi in site.data.publist_2021. %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
