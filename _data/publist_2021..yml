@@ -1,0 +1,47 @@
+
+- title: "Probabilistic Approach to Detect and Correct GNSS NLOS Signals Using an Augmented State Vector in the Extended Kalman Filter"
+  image: 
+  description: 
+  authors: C. Jiang, B. Xu*, and L.-T. Hsu
+  link:
+    url: https://doi.org/10.1007/s10291-021-01101-6
+    display: GPS Solutions 25, 72 (2021)
+  highlight: 0
+  news2: 
+  
+  
+  
+- title: "Impact assessment of the asynchronous clocks between reference and user receivers in differential pseudolite navigation system"
+  image: 
+  description: 
+  authors: J. Dou, B. Xu, L. Dou
+  link:
+    url: https://doi.org/10.1109/JSEN.2020.3014103
+    display: IEEE Sensors Journal 21(1):403-411 (2021)
+  highlight: 0
+  news2:
+  
+    
+- title: "A cost-effective beam forming structure for global navigation satellite system multipath mitigation and its assessment"
+  image: 
+  description: 
+  authors: Q. Jia, L.-T. Hsu, B. Xu, and R. Wu 
+  link:
+    url: https://doi.org/10.1017/S0373463320000648
+    display: The Journal of Navigation 74:2 (2021)
+  highlight: 0
+  news2:
+  
+  
+- title: "GNSS RUMS: GNSS Realistic Urban Multiagent Simulator for Collaborative Positioning Research"
+  image: 
+  description: 
+  authors: G. Zhang, B. Xu, H.-F. Ng, L.-T. Hsu 
+  link:
+    url: https://doi.org/10.3390/rs13040544
+    display: Remote Sensing 13(4):544 (2021)
+  highlight: 0
+  news2:
+  
+  
+
