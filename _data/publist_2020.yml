@@ -1,0 +1,36 @@
+
+- title: "Vector Tracking Loop-Based GNSS NLOS Detection and Correction: Algorithm Design and Performance Analysis"
+  image: publist-tim 2020 nlos.jpg
+  description: In this work, we analyzed the NLOS effects on both STLs and VTLs mathematically, based on which an NLOS detection and correction algorithm using the VTL was proposed. We used the metric of equivalent noise bandwidth of VTL to find potential NLOS reception and then confirmed it using the time delay of multicorrelator peaks and code discriminator output. The NLOS-induced measurement error was furtherly corrected before being fed forward into the Kalman filter.
+  authors: B. Xu, Q. Jia, L.-T. Hsu
+  link:
+    url: https://ieeexplore.ieee.org/document/8887530
+    display: IEEE Transactions on Instrumentation and Measurement 69(7):4604-4619 (2020)
+  highlight: 1
+  news2:
+  
+  
+- title: "Extending Shadow Matching to Tightly-Coupled GNSS/INS Integration Systems"
+  image: 
+  description: 
+  authors: G. Zhang, W. Wen, B. Xu, L.-T. Hsu
+  link:
+    url: https://doi.org/10.1109/TVT.2020.2981093
+    display: IEEE Transactions on Vehicular Technology 69(5):4979-4991 (2020)
+  highlight: 0
+  news2:
+  
+  
+- title: "Integrity monitoring using multi-GNSS pseudorange observations in the urban environment combining ARAIM and 3D city models"
+  image: 
+  description: 
+  authors: A. El-Mowafy, B. Xu, L.-T. Hsu
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1080/14498596.2020.1734109
+    display: Journal of Spatial Science, DOI: 10.1080/14498596.2020.1734109
+  highlight: 0
+  news2:
+  
+   
+
+
