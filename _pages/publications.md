@@ -34,7 +34,7 @@ See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Webs
 
 ## Research highlights
 
-(For a full list of publications, please see below or go to [Google Scholar](https://scholar.google.com/citations?user=DN78yRMAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3677-1109), [ResearcherID](https://publons.com/researcher/4635979/bing-xu/publications/))
+(For a full list of publications, please see [below](#journal-papers) or go to [Google Scholar](https://scholar.google.com/citations?user=DN78yRMAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3677-1109), [ResearcherID](https://publons.com/researcher/4635979/bing-xu/publications/))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
