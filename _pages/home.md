@@ -38,6 +38,9 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NavIC_DualFreq_ccexpress.png" alt="Slide 4" />
         </div>       
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grsl_fig3_ccexpress.png" alt="Slide 4" />
+        </div> 
         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
