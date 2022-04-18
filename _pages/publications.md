@@ -22,12 +22,12 @@ In the capacity of **Co-PI**: <br>
 
 
 In the capacity of **Co-I**: <br>
-- Unlocking the potential of AI edge intelligence and cloud-edge computing for flexible robotic and facility control system, 202 ~2023, Innovation and Technology Fund - Partnership Research Programme (ITF-PRP)<br>
+- Unlocking the potential of AI edge intelligence and cloud-edge computing for flexible robotic and facility control system, 2021~2023, Innovation and Technology Fund - Partnership Research Programme (ITF-PRP)<br>
 
 
-- Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, 9.	Ultra-Tightly Coupled GNSS/INS Integration for Smartphone<br>
+- Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, Huawei Technologies Co. Ltd. (Collaborative) <br>
 
-See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Website.pdf) for more details.
+See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Website.pdf) for more details.<br>
 
 
 
