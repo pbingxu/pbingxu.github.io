@@ -27,9 +27,6 @@ In the capacity of **Co-I**: <br>
 
 - Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, Huawei Technologies Co. Ltd. (Collaborative) <br>
 
-See my [CV]({{ site.baseurl }}/downloads/CV of XU BING - As of April 2022 - Website.pdf) for more details.<br>
-
-
 
 
 ## Research highlights
