@@ -1,7 +1,7 @@
 ---
 title: "PolyU GNSS Signal Processing - Home"
 layout: homelay
-excerpt: "GNSS Signal Processing at PolyU."
+excerpt: "GNSS Signal Processing"
 sitemap: false
 permalink: /
 ---
