@@ -7,27 +7,6 @@ permalink: /publications/
 ---
 
 
-## Research grants
-
-In the capacity of **PI**:<br> 
-- Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 2022~2024, NSFC for Young Scholar<br>
-- Security reinforcement for high-precision fusion positioning, 2021~2024, Huawei Technologies Co. Ltd. (Collaborative) <br>
-- Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 2022~2024, Guangdong Natural Science Foundation<br>
-
-
-- A-GNSS Based Direct Position Estimation: Modelling, Implementation and Performance Assessment, 2021~2023, PolyU Start-up Fund for RAPs under the Strategic Hiring Scheme <br>
-
-In the capacity of **Co-PI**: <br>
-- Reliable Multiagent Collaborative Global Navigation Satellite System Positioning for Intelligent Transportation Systems, 2022~2025, RGC Research Impact Fund Scheme (RIF) <br>
-
-
-In the capacity of **Co-I**: <br>
-- Unlocking the potential of AI edge intelligence and cloud-edge computing for flexible robotic and facility control system, 2021~2023, Innovation and Technology Fund - Partnership Research Programme (ITF-PRP)<br>
-
-
-- Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, Huawei Technologies Co. Ltd. (Collaborative) <br>
-
-
 
 ## Research highlights
 
@@ -70,6 +49,26 @@ In the capacity of **Co-I**: <br>
 {% endif %}
 
 <p> &nbsp; </p>
+
+## Research grants
+
+In the capacity of **PI**:<br> 
+- Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 2022~2024, NSFC for Young Scholar<br>
+- Security reinforcement for high-precision fusion positioning, 2021~2024, Huawei Technologies Co. Ltd. (Collaborative) <br>
+- Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 2022~2024, Guangdong Natural Science Foundation<br>
+
+
+- A-GNSS Based Direct Position Estimation: Modelling, Implementation and Performance Assessment, 2021~2023, PolyU Start-up Fund for RAPs under the Strategic Hiring Scheme <br>
+
+In the capacity of **Co-PI**: <br>
+- Reliable Multiagent Collaborative Global Navigation Satellite System Positioning for Intelligent Transportation Systems, 2022~2025, RGC Research Impact Fund Scheme (RIF) <br>
+
+
+In the capacity of **Co-I**: <br>
+- Unlocking the potential of AI edge intelligence and cloud-edge computing for flexible robotic and facility control system, 2021~2023, Innovation and Technology Fund - Partnership Research Programme (ITF-PRP)<br>
+
+
+- Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, Huawei Technologies Co. Ltd. (Collaborative) <br>
 
 
 
