@@ -71,7 +71,7 @@ In the capacity of **Co-I**: <br>
 - Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, Huawei Technologies Co. Ltd. (Collaborative) <br>
 
 
-
+<p> &nbsp; </p>
 ## Journal Papers
 (*: Corresponding author, #: Student author)
 
