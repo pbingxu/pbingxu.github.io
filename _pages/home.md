@@ -17,6 +17,7 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
@@ -34,7 +35,11 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NavIC_DualFreq_ccexpress.png" alt="Slide 4" />
-        </div>       
+        </div>  
+       
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GRSL_FIG5_resized.png" alt="Slide 5" />
+        </div>   
 
         
     </div>
