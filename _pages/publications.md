@@ -54,7 +54,7 @@ permalink: /publications/
 
 In the capacity of **PI**:<br> 
 - Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 2022~2024, NSFC for Young Scholar<br>
-- Security reinforcement for high-precision fusion positioning, 2021~2024, Huawei Technologies Co. Ltd. (Collaborative) <br>
+- Security reinforcement for high-precision fusion positioning, 2021~2024, Collaborative project<br>
 - Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 2022~2024, Guangdong Natural Science Foundation<br>
 
 
