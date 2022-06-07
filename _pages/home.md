@@ -18,7 +18,6 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -33,18 +32,14 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
         </div>
         
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEEE_TIM_Denoising.jpg" alt="Slide 3" />
-        </div>
-        
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPSS_VTSDR_ccexpress.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPSS_VTSDR_ccexpress.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NavIC_DualFreq_ccexpress.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NavIC_DualFreq_ccexpress.png" alt="Slide 4" />
         </div>  
        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GRSL_FIG5_resized.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GRSL_FIG5_resized.png" alt="Slide 5" />
         </div>   
 
         
