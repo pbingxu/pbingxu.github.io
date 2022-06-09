@@ -73,7 +73,7 @@ In the capacity of **Co-I**: <br>
 
 <p> &nbsp; </p>
 ## Journal Papers
-(*: Corresponding author, #: Student author)
+(*: Corresponding authorr)
 
 #### 2022
 {% for publi in site.data.publist_2022 %}
