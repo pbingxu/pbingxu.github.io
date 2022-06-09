@@ -11,7 +11,7 @@
 - title: "GNSS Code Multipath Time-frequency Analysis Using Wavelet-based Synchrosqueezing Transform in Urban Environments"
   image: 
   description: 
-  authors: A. Dey#, B. Xu*, X. Lu, and N. Sharma
+  authors: A. Dey, B. Xu*, X. Lu, and N. Sharma
   link:
     url: https://ieeexplore.ieee.org/document/9758726
     display: IEEE Geoscience and Remote Sensing Letters, published online, DOI 10.1109/LGRS.2022.3167738, 18 April 2022
@@ -31,7 +31,7 @@
 - title: "Carrier-Aided Dual Frequency Vectorized Tracking Architecture for NavIC Signals"
   image: 
   description: 
-  authors: A. Dey#, K. Iyer, B. Xu*, N. Sharma, and L.-T. Hsu
+  authors: A. Dey, K. Iyer, B. Xu*, N. Sharma, and L.-T. Hsu
   link:
     url: https://ieeexplore.ieee.org/document/9694612
     display: IEEE Transactions on Instrumentation and Measurement, 71:1-13 (2022)
