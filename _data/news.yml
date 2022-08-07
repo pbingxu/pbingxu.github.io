@@ -1,3 +1,5 @@
+- date: 3 August 2022
+  headline: A co-authored paper entitled “**FPS-Fast Path Planner Algorithm Based on Sparse Visibility Graph and Bidirectional Breadth-First Search**” is published online in Remote Sensing. This work proposed a path planner based on the visibility graph (v-graph) for the mobile robot that uses sparse methods to speed up and simplify the construction of the v-graph. See https://www.mdpi.com/2072-4292/14/15/3720.
 
 - date: 31 May 2022
   headline: Our paper entitled “**Data Denoising Based on Hadamard Matrix Transformation and Rayleigh Quotient Maximization, Application to GNSS Signal Classification**” is accepted for publication in **IEEE Transactions on Instrumentation & Measurement**! This paper presents a new data denoising theory to boost classification performance based on concepts of Hadamard matrix transformation and Rayleigh quotient maximization. 
