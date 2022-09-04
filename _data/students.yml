@@ -7,17 +7,39 @@
 #  education2:
 #  education3:
 #  education4:
+  
+ - name: Sergio Vicenzo
+  photo: Sergio.jpg
+  info: PhD Student, started from Sep 2022
+  email: sergio.vicenzo@connect.polyu.hk
+  number_educ: 2
+  education1: BEng (Honours), Aviation Engineering, PolyU
+  education2: Research direction: GNSS/5G integration
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+ - name: Xin Qi
+  photo: Xin.jpg
+  info: PhD Student, started from Sep 2022
+  email: xin-xq.qi@polyu.edu.hk
+  number_educ: 3
+  education1: MSc, Harbin Institute of Technology
+  education2: BEng, Zhengzhou University
+  education3: Research direction: Deep learning
+  
+ - name: Qi Zhang
+  photo: Qi.jpg
+  info: PhD Student, started from Sep 2022
+  email: qi915.zhang@connect.polyu.hk
+  number_educ: 3
+  education1: MSc, University of Chinese Academy of Sciences
+  education2: BEng, Xidian University
+  education3: Research direction: GNSS/Pseudolite positioning and navigation 
+  
+- name: Jingxiaotao Fang
+  photo: FangJingxiaotao.jpg
+  info: MPhil Student, to start from Sep 2022
+  email: jingxiaotao.fang@connect.polyu.hk
+  number_educ: 2
+  education1: BEng (Honours), Aviation Engineering, PolyU
+  education2: Research direction: GNSS statistical processing  
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+
