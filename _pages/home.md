@@ -28,7 +28,7 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_remotesensing_ccexpress2.png" alt="Slide 1" />
         </div>        
               
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_remotesensing_ccexpress.png" alt="Slide 2" />
         </div>
         
