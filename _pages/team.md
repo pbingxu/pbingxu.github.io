@@ -72,7 +72,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Master and Bachelor Students
+## PhD and Master Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
