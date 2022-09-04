@@ -6,27 +6,15 @@
   education1: Postdoc, <a href="https://www.polyu.edu.hk/en/aae/">AAE</a>, PolyU, 2018-2020
   education2: PhD, Navigation, Guidance and Control, <a href="https://english.njust.edu.cn/">Nanjing University of Science and Technology (NJUST)</a>, China, 2018
   education3: BEng, Network Engineering, NJUST, China, 2012
+
+- name: Jian Liu
+  photo: Jian.jpg
+  info: Research Assistant, started from June 2022
+  email: jian1.liu@polyu.edu.hk
+  number_educ: 2
+  education1: PhD student at Harbin Institute of Technology (Shenzhen)
+  education2: Research direction: GNSS security reinforcement
   
-- name: Sergio Vicenzo
-  photo: Sergio.jpg
-  info: PhD Student, to start from Sep 2022
-  email: sergio.vicenzo@connect.polyu.hk
-  number_educ: 1
-  education1: BEng (Honours), Aviation Engineering, PolyU
-
-- name: Jingxiaotao Fang
-  photo: FangJingxiaotao.jpg
-  info: MPhil Student, to start from Sep 2022
-  email: jingxiaotao.fang@connect.polyu.hk
-  number_educ: 1
-  education1: BEng (Honours), Aviation Engineering, PolyU 
-
-- name: Jason Marcelino
-  photo: Jason.jpg
-  info: MPhil Student, to start from Sep 2022
-  email: jason.marcelino@connect.polyu.hk
-  number_educ: 1
-  education1: BEng (Honours), Aviation Engineering, PolyU  
 
 - name: "This could be you !"
   photo: rock.jpg
