@@ -160,19 +160,19 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former PhD/BSc students
+## Former PhD/Master students
 <div class="row">
 
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<h4>PhD students</h4>
 {% for member in site.data.alumni_phd %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<h4>Master Students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
