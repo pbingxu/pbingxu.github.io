@@ -1,8 +1,8 @@
-- name: Yuan Zhao
-  photo: Yuan.jpg
-  duration: In our Lab May 2021-Jan 2022, Signal and Information Processing
-  number_educ: 3
-  education1: Postdoc, July 2019 - May 2021, Shen Zhen University
-  education2: PhD, University of Electronic Science and Technology
-  education3: BEng, University of Electronic Science and Technology
-  education4:
+  - name: Yuan Zhao
+    photo: Yuan.jpg
+    duration: In our Lab May 2021-Jan 2022, Signal and Information Processing
+    number_educ: 3
+    education1: Postdoc, July 2019 - May 2021, Shen Zhen University
+    education2: PhD, University of Electronic Science and Technology
+    education3: BEng, University of Electronic Science and Technology
+    education4:
