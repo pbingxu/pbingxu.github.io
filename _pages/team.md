@@ -160,7 +160,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former visitors, PhD/BSc students
+## Former PhD/BSc students
 <div class="row">
 
 
