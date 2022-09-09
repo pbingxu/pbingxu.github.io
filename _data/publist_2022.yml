@@ -1,3 +1,13 @@
+- title: "A Robust Nonlinear Filter Strategy Based on Maximum Correntropy Criterion for Multi-GNSS and Dual-Frequency RTK"
+  image: 
+  description: 
+  authors: J. Liu, T. Liu, Y. Ji, M. Sun, M. Lyu, B. Xu, Z. Lu, and G. Xu
+  link:
+    url: 
+    display: Remote Sensing, Accepted for publication, 9 Sep 2022
+  highlight: 0
+  news2: 
+
 - title: "FPS-Fast Path Planner Algorithm Based on Sparse Visibility Graph and Bidirectional Breadth-First Search"
   image: 
   description: 
@@ -7,6 +17,7 @@
     display: Remote Sensing, DOI 10.3390/rs14153720, 3 August 2022
   highlight: 0
   news2: 
+
 
 - title: "Data Denoising Based on Hadamard Matrix Transformation and Rayleigh Quotient Maximization, Application to GNSS Signal Classification"
   image: 
