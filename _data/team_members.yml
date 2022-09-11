@@ -14,32 +14,6 @@
   number_educ: 2
   education1: PhD student at Harbin Institute of Technology (Shenzhen)
   education2: GNSS security reinforcement
- 
-- name: Sergio Vicenzo
-  photo: Sergio.jpg
-  info: PhD Student, started from Sep 2022
-  email: sergio.vicenzo@connect.polyu.hk
-  number_educ: 2
-  education1: BEng (Honours), Aviation Engineering, PolyU
-  education2: GNSS 5G integration
-
-- name: Xin Qi
-  photo: Xin.jpg
-  info: PhD Student, started from Sep 2022
-  email: xin-xq.qi@polyu.edu.hk
-  number_educ: 3
-  education1: MSc, Harbin Institute of Technology
-  education2: BEng, Zhengzhou University
-  education3: Deep learning
-
-- name: Qi Zhang
-  photo: Qi.jpg
-  info: PhD Student, started from Sep 2022
-  email: qi915.zhang@connect.polyu.hk
-  number_educ: 3
-  education1: MSc, University of Chinese Academy of Sciences
-  education2: BEng, Xidian University
-  education3: GNSS and Pseudolite positioning and navigation 
 
 - name: Jingxiaotao Fang
   photo: FangJingxiaotao.jpg
@@ -48,3 +22,29 @@
   number_educ: 2
   education1: BEng (Honours), Aviation Engineering, PolyU
   education2: GNSS statistical processing
+    
+- name: Qi Zhang
+  photo: Qi.jpg
+  info: PhD Student, started from Sep 2022
+  email: qi915.zhang@connect.polyu.hk
+  number_educ: 3
+  education1: MSc, University of Chinese Academy of Sciences
+  education2: BEng, Xidian University
+  education3: GNSS and Pseudolite positioning and navigation 
+  
+- name: Sergio Vicenzo
+  photo: Sergio.jpg
+  info: PhD Student, started from Sep 2022
+  email: sergio.vicenzo@connect.polyu.hk
+  number_educ: 2
+  education1: BEng (Honours), Aviation Engineering, PolyU
+  education2: GNSS 5G integration
+     
+- name: Xin Qi
+  photo: Xin.jpg
+  info: PhD Student, started from Sep 2022
+  email: xin-xq.qi@polyu.edu.hk
+  number_educ: 3
+  education1: MSc, Harbin Institute of Technology
+  education2: BEng, Zhengzhou University
+  education3: Deep learning
