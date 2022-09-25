@@ -1,4 +1,4 @@
-- date: 26 Oct 2022
+- date: 26 September 2022
   headline: Our paper, entitled “**Hyperparameter Optimization of Neural Networks Based on Q-learning**” is accepted for publication in Signal, Image and Video Processing. In this paper, the learning agent searches for the optimal hyperparameter configuration by continuously updating the Q-table to optimize hyperparameter tuning strategy. 
 
 - date: 9 September 2022
