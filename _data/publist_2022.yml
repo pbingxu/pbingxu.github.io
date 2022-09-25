@@ -1,3 +1,13 @@
+- title: "Hyperparameter Optimization of Neural Networks Based on Q-learning"
+  image: 
+  description: 
+  authors: X. Qi and B. Xu
+  link:
+    url: 
+    display: Signal, Image and Video Processing, accepted for publication, 26 Sep 2022
+  highlight: 0
+  news2: 
+  
 - title: "A Robust Nonlinear Filter Strategy Based on Maximum Correntropy Criterion for Multi-GNSS and Dual-Frequency RTK"
   image: 
   description: 
@@ -7,6 +17,7 @@
     display: Remote Sensing, 14(18), 4578, DOI 10.3390/rs14184578, 13 Sep 2022
   highlight: 0
   news2: 
+
 
 - title: "FPS-Fast Path Planner Algorithm Based on Sparse Visibility Graph and Bidirectional Breadth-First Search"
   image: 
