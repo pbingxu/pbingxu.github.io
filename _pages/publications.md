@@ -54,7 +54,7 @@ permalink: /publications/
 
 In the capacity of **PI**:<br> 
 - Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 2022~2024, NSFC for Young Scholar<br>
-- Security reinforcement for high-precision fusion positioning, 2021~2024, Collaborative project<br>
+- Security reinforcement for high-precision fusion positioning, 2021~2024, Industrial research collaborative project<br>
 - Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 2022~2024, Guangdong Natural Science Foundation<br>
 
 
@@ -68,7 +68,7 @@ In the capacity of **Co-I**: <br>
 - Unlocking the potential of AI edge intelligence and cloud-edge computing for flexible robotic and facility control system, 2021~2023, Innovation and Technology Fund - Partnership Research Programme (ITF-PRP)<br>
 
 
-- Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, Huawei Technologies Co. Ltd. (Collaborative) <br>
+- Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, Industrial research collaborative project <br>
 
 
 <p> &nbsp; </p>
