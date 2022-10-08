@@ -2,7 +2,7 @@
 - title: "An intelligent joint filter for vector tracking loop considering noise interference"
   image: 
   description: 
-  authors: J. Dou, **B. Xu**, L. Dou
+  authors: J. Dou, B. Xu, L. Dou
   link:
     url: https://doi.org/10.1016/j.ijleo.2020.164984
     display: Optik 22:164984 (2020)
@@ -36,7 +36,7 @@
 - title: "Research on Time-Correlated Errors Using Allan Variance in a Kalman Filter Applicable to Vector-Tracking-Based GNSS Software-Defined Receiver for Autonomous Ground Vehicle Navigation"
   image: 
   description: 
-  authors: Y. Luo, J. Li, C. Yu, **B. Xu**, L. You, L.-T. Hsu
+  authors: Y. Luo, J. Li, C. Yu, B. Xu, L. You, L.-T. Hsu
   link:
     url: https://doi.org/10.3390/rs11091026
     display: Remote Sens. 11(9):1026 (2019)
@@ -48,7 +48,7 @@
 - title: "A GPS Spoofing Generator Using an Open Sourced Vector Tracking-Based Receiver"
   image:  
   description: 
-  authors: Q. Meng, L.-T. Hsu, **B. Xu**, X. Luo
+  authors: Q. Meng, L.-T. Hsu, B. Xu, X. Luo
   link:
     url: https://doi.org/10.3390/s19183993
     display: Sensors 19(18):3993 (2019)
@@ -59,7 +59,7 @@
 - title: "Performance assessment of GNSS scalar and vector frequency tracking loops"
   image: 
   description: 
-  authors: J. Dou, **B. Xu**, L. Dou
+  authors: J. Dou, B. Xu, L. Dou
   link:
     url: https://doi.org/10.1016/j.ijleo.2019.163552
     display: Optik 202:163552 (2019)
