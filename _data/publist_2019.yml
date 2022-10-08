@@ -2,7 +2,7 @@
 - title: "An intelligent joint filter for vector tracking loop considering noise interference"
   image: 
   description: 
-  authors: J. Dou, B. Xu, L. Dou
+  authors: J. Dou, **B. Xu**, L. Dou
   link:
     url: https://doi.org/10.1016/j.ijleo.2020.164984
     display: Optik 22:164984 (2020)
@@ -13,7 +13,7 @@
 - title: "Open-source MATLAB code for GPS vector tracking on a software defined receiver"
   image: publist-vtsdr.png
   description: We developed open-source MATLAB code for GPS VT SDR to enable researchers and scientists to investigate its pros and cons in various applications and under various environments. To achieve this goal, we developed an “equivalent conventional tracking (CT)” SDR as a baseline to compare with VT. The GPS positioning estimator of this equivalent CT is based on an extended Kalman filter (EKF), which has exactly the same state, system, and carrier measurement models and noise tuning method as VT. This baseline provides users with a tool to compare the performance of VT and CT on common ground.
-  authors: B. Xu, L.‑T. Hsu
+  authors: **B. Xu**, L.‑T. Hsu
   link:
     url: https://doi.org/10.1007/s10291-019-0839-x
     display: GPS Solutions 23, 46 (2019)
@@ -24,7 +24,7 @@
 - title: "Intelligent GPS L1 LOS/Multipath/NLOS Classifiers Based on Correlator-, RINEX- and NMEA-Level Measurements"
   image: publist-remotesensing-highlights.png
   description: In this paper, a fair comparison among NMEA-, RINEX-, and correlator-level GNSS signal type (LOS/MP/NLOS) classifiers is carried out on a common ground by a software defined receiver. Results show that the correlator-level classifier improves the metric of F1 score by about 25% over the conventional NMEA- and RINEX-level classifiers for testing data collected at different places to that of training data. In addition to this finding, correlator-level classifier is found to be more feasible in practical applications due to its less dependency on surrounding scenarios compared with the NMEA/RINEX-level classifiers.
-  authors: B. Xu, Q. Jia, Y. Luo, L.‑T. Hsu
+  authors: **B. Xu**, Q. Jia, Y. Luo, L.‑T. Hsu
   link:
     url: https://doi.org/10.3390/rs11161851
     display: Remote Sens. 11(16):1851 (2019)
