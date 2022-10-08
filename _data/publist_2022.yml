@@ -21,7 +21,7 @@
 - title: "A Robust Nonlinear Filter Strategy Based on Maximum Correntropy Criterion for Multi-GNSS and Dual-Frequency RTK"
   image: 
   description: 
-  authors: J. Liu, T. Liu, Y. Ji, M. Sun, M. Lyu, B. Xu, Z. Lu, and G. Xu
+  authors: J. Liu, T. Liu, Y. Ji, M. Sun, M. Lyu, **B. Xu**, Z. Lu, and G. Xu
   link:
     url: https://www.mdpi.com/2072-4292/14/18/4578
     display: Remote Sensing, 14(18), 4578, DOI 10.3390/rs14184578, 13 Sep 2022
@@ -32,7 +32,7 @@
 - title: "FPS-Fast Path Planner Algorithm Based on Sparse Visibility Graph and Bidirectional Breadth-First Search"
   image: 
   description: 
-  authors: Q. Li, F. Xie, J. Zhao, B. Xu, J. Yang, X. Liu, and H. Suo
+  authors: Q. Li, F. Xie, J. Zhao, **B. Xu**, J. Yang, X. Liu, and H. Suo
   link:
     url: https://www.mdpi.com/2072-4292/14/15/3720
     display: Remote Sensing, 14(15), 3720, DOI 10.3390/rs14153720, 3 August 2022
@@ -43,7 +43,7 @@
 - title: "Data Denoising Based on Hadamard Matrix Transformation and Rayleigh Quotient Maximization, Application to GNSS Signal Classification"
   image: 
   description: 
-  authors: J. Yue, B. Xu*, and L.-T. Hsu
+  authors: J. Yue, **B. Xu***, and L.-T. Hsu
   link:
     url: https://ieeexplore.ieee.org/document/9800923
     display: IEEE Transactions on Instrumentation and Measurement, DOI 10.1109/TIM.2022.3184357, 20 June 2022
@@ -53,7 +53,7 @@
 - title: "GNSS Code Multipath Time-frequency Analysis Using Wavelet-based Synchrosqueezing Transform in Urban Environments"
   image: 
   description: 
-  authors: A. Dey, B. Xu*, X. Lu, and N. Sharma
+  authors: A. Dey, **B. Xu***, X. Lu, and N. Sharma
   link:
     url: https://ieeexplore.ieee.org/document/9758726
     display: IEEE Geoscience and Remote Sensing Letters, published online, DOI 10.1109/LGRS.2022.3167738, 18 April 2022
@@ -63,7 +63,7 @@
 - title: "Vector Tracking Based on Factor Graph Optimization for GNSS NLOS Bias Estimation and Correction"
   image: 
   description: 
-  authors: C. Jiang, Y. Chen, B. Xu, J. Jia, H. Sun, T. Wang, Z. Duan, and J. Hyyppä
+  authors: C. Jiang, Y. Chen, **B. Xu**, J. Jia, H. Sun, T. Wang, Z. Duan, and J. Hyyppä
   link:
     url: https://ieeexplore.ieee.org/document/9711574
     display: IEEE Internet of Things Journal, published online, DOI 10.1109/JIOT.2022.3150764, 11 February 2022
@@ -73,7 +73,7 @@
 - title: "Carrier-Aided Dual Frequency Vectorized Tracking Architecture for NavIC Signals"
   image: 
   description: 
-  authors: A. Dey, K. Iyer, B. Xu*, N. Sharma, and L.-T. Hsu
+  authors: A. Dey, K. Iyer, **B. Xu***, N. Sharma, and L.-T. Hsu
   link:
     url: https://ieeexplore.ieee.org/document/9694612
     display: IEEE Transactions on Instrumentation and Measurement, 71:1-13 (2022)
