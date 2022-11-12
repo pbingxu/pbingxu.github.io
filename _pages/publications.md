@@ -56,6 +56,7 @@ In the capacity of **PI**:<br>
 - Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 2022~2024, NSFC for Young Scholar<br>
 - Security reinforcement for high-precision fusion positioning, 2021~2024, Industrial research collaborative project<br>
 - Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 2022~2024, Guangdong Natural Science Foundation<br>
+- Development and verification of SLAM+RTK navigation technology for smartphones, 2022~2023, State Key Laboratory of Satellite Navigation System and Equipment Technology Open Fund Project<br>
 
 
 - A-GNSS Based Direct Position Estimation: Modelling, Implementation and Performance Assessment, 2021~2023, PolyU Start-up Fund for RAPs under the Strategic Hiring Scheme <br>
