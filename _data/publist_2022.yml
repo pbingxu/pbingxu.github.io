@@ -1,10 +1,21 @@
+- title: "C/N0 Assessment Based on GPS L5/L1C/A Signal Acquisition in Open-Sky/Light-Urban/Dense-Urban/Indoor Environments with Extended Coherent Integration Time"
+  image: 
+  description: 
+  authors: C.-L Tsang, Y. Luo, B. Xu and L.-T. Hsu
+  link:
+    url: 
+    display: Journal of Aeronautics, Astronautics and Aviation, Accepted, 15 Nov 2022.
+  highlight: 0
+  news2: 
+
+
 - title: "Analytic Models of a Loosely-coupled GNSS/INS/LiDAR Kalman Filter considering Update Frequency under a Spoofing Attack"
   image: 
   description: 
   authors: J. Chang, L. Zhang, L.-T. Hsu, B. Xu, F. Huang and D. Xu
   link:
-    url: 
-    display: IEEE Sensors Journal, Accepted, 3 Oct 2022.
+    url: https://ieeexplore.ieee.org/abstract/document/9929290
+    display: IEEE Sensors Journal, 22(23), 23341-23355, DOI 10.1109/TIM.2022.3184357, 1 December 2022.
   highlight: 0
   news2: 
   
