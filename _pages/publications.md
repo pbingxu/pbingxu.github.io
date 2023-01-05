@@ -76,6 +76,15 @@ In the capacity of **Co-I**: <br>
 ## Journal Papers
 (*: Corresponding authorr)
 
+#### 2023
+{% for publi in site.data.publist_2023 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
 #### 2022
 {% for publi in site.data.publist_2022 %}
 
