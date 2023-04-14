@@ -6,14 +6,6 @@
   education1: Postdoc, <a href="https://www.polyu.edu.hk/en/aae/">AAE</a>, PolyU, 2018-2020
   education2: PhD, Navigation, Guidance and Control, <a href="https://english.njust.edu.cn/">Nanjing University of Science and Technology (NJUST)</a>, China, 2018
   education3: BEng, Network Engineering, NJUST, China, 2012
-
-- name: Jingxiaotao Fang
-  photo: FangJingxiaotao.jpg
-  info: MPhil Student, started from Sep 2022
-  email: jingxiaotao.fang@connect.polyu.hk
-  number_educ: 2
-  education1: BEng (Honours), Aviation Engineering, PolyU
-  education2: Statistical GNSS signal processing
     
 - name: Qi Zhang
   photo: Qi.jpg
@@ -22,7 +14,15 @@
   number_educ: 3
   education1: MSc, University of Chinese Academy of Sciences
   education2: BEng, Xidian University
-  education3: GNSS/Pseudolite positioning and navigation 
+  education3: LEO positioning 
+  
+- name: Jingxiaotao Fang
+  photo: FangJingxiaotao.jpg
+  info: MPhil Student, started from Sep 2022
+  email: jingxiaotao.fang@connect.polyu.hk
+  number_educ: 2
+  education1: BEng (Honours), Aviation Engineering, PolyU
+  education2: Statistical GNSS signal processing, GNSS spoofing defense
   
 - name: Sergio Vicenzo
   photo: Sergio.jpg
@@ -30,7 +30,7 @@
   email: sergio.vicenzo@connect.polyu.hk
   number_educ: 2
   education1: BEng (Honours), Aviation Engineering, PolyU
-  education2: GNSS/5G integration
+  education2: Direct position estimation, GNSS/5G integrated positioning
      
 - name: Xin Qi
   photo: Xin.jpg
@@ -39,4 +39,4 @@
   number_educ: 3
   education1: MSc, Harbin Institute of Technology
   education2: BEng, Zhengzhou University
-  education3: Deep learning
+  education3: Deep learning assisted GNSS positioning
