@@ -1,5 +1,4 @@
   - name: Yuan Zhao
-    photo: Yuan.jpg
     info: Postdoc
     duration: In our Lab May 2021-Jan 2022, Signal and Information Processing
     number_educ: 3
@@ -7,3 +6,9 @@
     education2: PhD, University of Electronic Science and Technology
     education3: BEng, University of Electronic Science and Technology
     education4:
+
+  - name: Jian Liu
+    info: Research Assistant
+    duration: In our Lab Jun 2022-Jan 2023, GNSS security reinforcement
+    number_educ: 1
+    education1: PhD student at Harbin Institute of Technology (Shenzhen)
