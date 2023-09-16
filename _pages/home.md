@@ -15,11 +15,7 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-
-        ```
-        <li data-target="#carousel" data-slide-to="2"></li>
-        ```
-        
+       
     </ol>
 
     <!-- Items -->
@@ -27,14 +23,7 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/si_banner181370_64e467f9a7d39.png" alt="Slide 1" />
-        </div>      
-
-        ```
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NavIC_DualFreq_ccexpress.png" alt="Slide 2" />
-        </div>  
-        ```
-        
+        </div>             
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
