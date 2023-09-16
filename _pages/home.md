@@ -23,29 +23,29 @@ I am a Research Assistant Professor at the [Department of Aeronautical and Aviat
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/si_banner181370_64e467f9a7d39.png" alt="Slide 1" />
+        </div>      
         
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_remotesensing_ccexpress2.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_remotesensing_ccexpress2.png" alt="Slide 2" />
         </div>        
               
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_remotesensing_ccexpress.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_remotesensing_ccexpress.png" alt="Slide 3" />
         </div>
         
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_appliedscience_ccexpress.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/special_issue_appliedscience_ccexpress.png" alt="Slide 4" />
         </div>
         
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPSS_VTSDR_ccexpress.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPSS_VTSDR_ccexpress.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NavIC_DualFreq_ccexpress.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NavIC_DualFreq_ccexpress.png" alt="Slide 6" />
         </div>  
-       
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GRSL_FIG5_resized.png" alt="Slide 6" />
-        </div>   
 
         
     </div>
