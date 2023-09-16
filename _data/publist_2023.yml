@@ -1,4 +1,36 @@
-- title: "C/N0 Assessment Based on GPS L5/L1C/A Signal Acquisition in Open-Sky/Light-Urban/Dense-Urban/Indoor Environments with Extended Coherent Integration Time"
+- title: "Robust GNSS Positioning using Unbiased Finite Impulse Response Filter"
+  image: 
+  description: 
+  authors: A3.	J. Dou, B. Xu, and L. Dou
+  link:
+    url: https://www.mdpi.com/2072-4292/15/18/4528
+    display: Remote Sensing, 15(18):4528, 2023.
+  highlight: 0
+  news2: 
+
+
+- title: "Performance Evaluation of Vectorized NavIC Receiver Using Improved Dual-Frequency NavIC Measurements"
+  image: 
+  description: 
+  authors: A. Dey, K. Iyer, B. Xu, N. Sharma and L.-T Hsu
+  link:
+    url: https://ieeexplore.ieee.org/document/10182365/
+    display: IEEE Transactions on Instrumentation and Measurement, 72, 8505213, 2023.
+  highlight: 0
+  news2: 
+
+- title: "A post-correlation graphical way for continuous GNSS spoofing detection"
+  image: 
+  description: 
+  authors: J. Fang, J. Yue, B. Xu and L.-T. Hsu
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0263224123005389
+    display: Measurement, 216, 112974, 2023.
+  highlight: 0
+  news2: 
+
+
+  - title: "C/N0 Assessment Based on GPS L5/L1C/A Signal Acquisition in Open-Sky/Light-Urban/Dense-Urban/Indoor Environments with Extended Coherent Integration Time"
   image: 
   description: 
   authors: C.-L Tsang, Y. Luo, B. Xu and L.-T. Hsu
