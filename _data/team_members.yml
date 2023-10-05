@@ -14,11 +14,11 @@
   number_educ: 3
   education1: MSc, University of Chinese Academy of Sciences
   education2: BEng, Xidian University
-  education3: LEO positioning 
+  education3: GNSS/LEO positioning
   
 - name: Jingxiaotao Fang
   photo: FangJingxiaotao.jpg
-  info: MPhil Student, started from Sep 2022
+  info: PhD Student, started from Sep 2022
   email: jingxiaotao.fang@connect.polyu.hk
   number_educ: 2
   education1: BEng (Honours), Aviation Engineering, PolyU
@@ -49,4 +49,4 @@
   number_educ: 3
   education1: MSc, Sun Yat-Sen University
   education2: BEng, South China Agriculture University
-  education3: Low Earth orbit positioning, navigation, and timing 
+  education3: Satellite receiver technology, LEO positioning, navigation, and timing 
