@@ -51,3 +51,23 @@
   education1: MSc, Sun Yat-Sen University
   education2: BEng, South China Agriculture University
   education3: Satellite receiver technology, LEO positioning, navigation, and timing 
+
+  - name: Zihong Zhou
+  photo: Samba.jpg
+  info: PhD Student, started from Jan 2024
+  email: samba.zhou@connect.polyu.hk
+  number_educ: 3
+  education1: MSc, Imperial College London
+  education2: BEng, University of Bristol
+  education3: LEO positioning, navigation, and timing, Spaceborne timing receiver
+
+    - name: Sijia Li
+  photo: Sijia.jpg
+  info: PhD Student, started from Sep 2024
+  email: u3603380@connecthkuhk.onmicrosoft.com
+  number_educ: 3
+  education1: MSc, The University of Hong Kong
+  education2: BEng, Beijing University of Technology 
+  education3: Telecommunications and navigation
+
+  
