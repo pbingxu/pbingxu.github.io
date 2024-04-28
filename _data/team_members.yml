@@ -1,11 +1,12 @@
 - name: Bing Xu
   photo: XU BING.jpg
-  info: Research Assistant professor, started from April 2020
+  info: Assistant professor, started from Jan 2024
   email: pbing.xu@polyu.edu.hk
-  number_educ: 3
-  education1: Postdoc, <a href="https://www.polyu.edu.hk/en/aae/">AAE</a>, PolyU, 2018-2020
-  education2: PhD, Navigation, Guidance and Control, <a href="https://english.njust.edu.cn/">Nanjing University of Science and Technology (NJUST)</a>, China, 2018
-  education3: BEng, Network Engineering, NJUST, China, 2012
+  number_educ: 4
+  education1: Research Assistant professor, <a href="https://www.polyu.edu.hk/en/aae/">AAE</a>, PolyU, Apr 2020 - Dec 2023
+  education2: Postdoc, <a href="https://www.polyu.edu.hk/en/aae/">AAE</a>, PolyU, Aug 2018 - Apr 2020
+  education3: PhD, Navigation, Guidance and Control, <a href="https://english.njust.edu.cn/">Nanjing University of Science and Technology (NJUST)</a>, China, 2018
+  education4: BEng, Network Engineering, NJUST, China, 2012
     
 - name: Qi Zhang
   photo: Qi.jpg
