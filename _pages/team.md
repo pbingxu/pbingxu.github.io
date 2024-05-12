@@ -1,7 +1,7 @@
 ---
-title: "PolyU GNSS Signal Processing Lab - Team"
+title: "PolyU PNT Signal Processing Group - Team"
 layout: gridlay
-excerpt: "PolyU GNSS Signal Processing Lab: Team members"
+excerpt: "PolyU PNT Signal Processing Group: Team members"
 sitemap: false
 permalink: /team/
 ---
