@@ -1,9 +1,19 @@
-- title: "Robust GNSS Positioning using Unbiased Finite Impulse Response Filter"
+- title: "Random forest-based multipath parameter estimation"
   image: 
   description: 
-  authors: J. Dou, B. Xu, and L. Dou
+  authors: X. Qi, B. Xu*, Z. Wang, and L.-T. Hsu
   link:
-    url: https://www.mdpi.com/2072-4292/15/18/4528
-    display: Remote Sensing, 15(18):4528, 2023.
+    url: 
+    display: GPS Solutions, Accepted for publication.
+  highlight: 0
+  news2: 
+
+- title: "GNSS Direct Position Estimation-inspired Positioning with Pseudorange Correlogram for Urban Navigation"
+  image: 
+  description: 
+  authors: 2.	S. Vicenzo, B. Xu*, H. Xu and L.-T Hsu
+  link:
+    url: https://link.springer.com/article/10.1007/s10291-024-01627-5
+    display: GPS Solutions, Accepted for publication.
   highlight: 0
   news2: 
