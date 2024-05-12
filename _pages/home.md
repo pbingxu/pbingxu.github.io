@@ -1,12 +1,12 @@
 ---
-title: "PolyU GNSS Signal Processing - Home"
+title: "PolyU PNT Signal Processing Group- Home"
 layout: homelay
 excerpt: "GNSS Signal Processing"
 sitemap: false
 permalink: /
 ---
 
-I am currently an Assistant Professor at the [Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). I received my BEng degree from Nanjing University of Science and Technology, China, in 2012, and my PhD degree in Control Science and Engineering from the same university in 2018. Before the current position, I was a Postdoctoral Fellow and Research Assistant Professor with AAE. Our research works have been awarded several research grants including the National Natural Science Foundation of China (NSFC) Young Scientists Fund, Guangdong Basic and Applied Basic Research Fund, State Key Laboratory of Satellite Navigation System and Equipment Technology Open Fund, etc. I also lead research collaborative projects with relevant industries. I am also a member of the Intelligent Positioning and Navigation Laboratory.
+I am currently an Assistant Professor in the [Department of Aeronautical and Aviation Engineering at The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/). I received my BEng degree from Nanjing University of Science and Technology, China, in 2012, and my PhD degree in Control Science and Engineering from the same university in 2018. Prior to my current position, I held roles as a Postdoctoral Fellow and Research Assistant Professor in the AAE department. Our research works have been recognized with several research grants, including the National Natural Science Foundation of China (NSFC) Young Scientists Fund, the Guangdong Basic and Applied Basic Research Fund, the State Key Laboratory of Satellite Navigation System and Equipment Technology Open Fund, and so on. I also lead collaborative research projects with industry partners. Additionally, I am a member of the PolyU Intelligent Positioning and Navigation Laboratory.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
