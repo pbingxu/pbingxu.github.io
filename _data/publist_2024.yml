@@ -11,9 +11,29 @@
 - title: "GNSS Direct Position Estimation-inspired Positioning with Pseudorange Correlogram for Urban Navigation"
   image: 
   description: 
-  authors: 2.	S. Vicenzo, B. Xu*, H. Xu and L.-T Hsu
+  authors: S. Vicenzo, B. Xu*, H. Xu and L.-T. Hsu
   link:
     url: https://link.springer.com/article/10.1007/s10291-024-01627-5
-    display: GPS Solutions, Accepted for publication.
+    display: GPS Solutions, 28(83), 11 Mar 2024.
+  highlight: 0
+  news2: 
+
+- title: "Enhancing Positioning in GNSS Denied Environments by Synthesizing Measurements for EKF-based GNSS/IMU Fusion"
+  image: 
+  description: 
+  authors: K. Iyer, A. Dey, B. Xu*, N. Sharma and L.-T. Hsu
+  link:
+    url: https://ieeexplore.ieee.org/document/10428081
+    display: IEEE Transactions on Vehicular Technology, Early access, 8 February 2024.
+  highlight: 0
+  news2: 
+
+- title: "A Novel SINS/DVL Integrated Navigation Method Based on Different Track Models for Complex Environment"
+  image: 
+  description: 
+  authors: D. Wang, B. Wang, H. Huang, B. Xu, H. Zhang
+  link:
+    URL: https://ieeexplore.ieee.org/document/10459020
+    display: IEEE Transactions on Instrumentation & Measurement, 73, 4 Mar 2024.
   highlight: 0
   news2: 
