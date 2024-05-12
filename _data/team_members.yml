@@ -41,7 +41,6 @@
   education1: MSc, Harbin Institute of Technology
   education2: BEng, Zhengzhou University
   education3: Deep learning assisted GNSS positioning
-
      
 - name: Yuxin He
   photo: Yuxin He.jpg
@@ -52,7 +51,7 @@
   education2: BEng, South China Agriculture University
   education3: Satellite receiver technology, LEO positioning, navigation, and timing 
 
-  - name: Zihong Zhou
+- name: Zihong Zhou
   photo: Samba.jpg
   info: PhD Student, started from Jan 2024
   email: samba.zhou@connect.polyu.hk
@@ -61,7 +60,7 @@
   education2: BEng, University of Bristol
   education3: LEO positioning, navigation, and timing, Spaceborne timing receiver
 
-    - name: Sijia Li
+- name: Sijia Li
   photo: Sijia.jpg
   info: PhD Student, started from Sep 2024
   email: u3603380@connecthkuhk.onmicrosoft.com
