@@ -1,7 +1,7 @@
 ---
 title: "PolyU PNT Signal Processing Group- Home"
 layout: homelay
-excerpt: "GNSS Signal Processing"
+excerpt: "PNT Signal Processing Group"
 sitemap: false
 permalink: /
 ---
