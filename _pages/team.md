@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team!**
 
-## Research Personnel and Postgraduate Students
+## Research Personnel and Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -62,6 +62,7 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
   {% endif %}
 
    {% if member.number_educ == 7 %}
@@ -70,7 +71,21 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
+  <li> {{ member.education7 }} </li>
   {% endif %}
+
+  {% if member.number_educ == 8 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
+  <li> {{ member.education7 }} </li>
+  <li> {{ member.education8 }} </li>
+  {% endif %}
+  
 
   </ul>
 </div>
