@@ -10,7 +10,7 @@
 
 - title: "GNSS Direct Position Estimation-inspired Positioning with Pseudorange Correlogram for Urban Navigation"
   image: 
-  description: 
+  description: We present a novel grid-based maximum likelihood estimation (MLE) algorithm based on DPE by making use of pseudorange measurements to obtain the correlogram on a predefined searching space. Unlike the traditional DPE, which performs correlations at the intermediate frequency (IF) level, correlations herein are done by directly comparing the code phase of each candidate position with the incoming pseudorange. Results show that the proposed method manages to acquire MP mitigation capability of DPE and outperforms 2SP by up to around 23% in the tested urban datasets and 91% in the simulation data, at a much-reduced computational time.
   authors: S. Vicenzo, B. Xu, H. Xu and L.-T. Hsu
   link:
     url: https://link.springer.com/article/10.1007/s10291-024-01627-5
