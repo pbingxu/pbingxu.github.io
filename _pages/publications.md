@@ -60,7 +60,6 @@ permalink: /publications/
 <p> &nbsp; </p>
 <p> &nbsp; </p>
 ## Journal Papers
-(*: Corresponding authorr)
 
 #### 2024
 {% for publi in site.data.publist_2024 %}
