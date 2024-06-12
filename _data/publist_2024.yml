@@ -5,7 +5,7 @@
   link:
     url: https://link.springer.com/article/10.1007/s10291-024-01667-x
     display: GPS Solutions, 28(126), 20 May 2024.
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "GNSS Direct Position Estimation-inspired Positioning with Pseudorange Correlogram for Urban Navigation"
@@ -15,7 +15,7 @@
   link:
     url: https://link.springer.com/article/10.1007/s10291-024-01627-5
     display: GPS Solutions, 28(83), 11 Mar 2024.
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Enhancing Positioning in GNSS Denied Environments by Synthesizing Measurements for EKF-based GNSS/IMU Fusion"
