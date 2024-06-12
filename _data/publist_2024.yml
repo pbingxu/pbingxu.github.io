@@ -1,5 +1,5 @@
 - title: "Random forest-based multipath parameter estimation"
-  image: 
+  image: publist-GPSS-Qi X-2024.jpg
   description: This paper proposes a random forest (RF)-based multipath parameter estimator that uses random forest regression for parameter estimation, thereby mitigating multipath effect. The proposed RF-based estimator shows better performance than MEDLL for signals with front-end bandwidths of lower than 6 MHz. It also works under weak signal conditions.
   authors: X. Qi, B. Xu, Z. Wang, and L.-T. Hsu
   link:
@@ -9,7 +9,7 @@
   news2: 
 
 - title: "GNSS Direct Position Estimation-inspired Positioning with Pseudorange Correlogram for Urban Navigation"
-  image: 
+  image: publist-GPSS-Sergio-2024.jpg
   description: We present a novel grid-based maximum likelihood estimation (MLE) algorithm based on DPE by making use of pseudorange measurements to obtain the correlogram on a predefined searching space. Unlike the traditional DPE, which performs correlations at the intermediate frequency (IF) level, correlations herein are done by directly comparing the code phase of each candidate position with the incoming pseudorange. Results show that the proposed method manages to acquire MP mitigation capability of DPE and outperforms 2SP by up to around 23% in the tested urban datasets and 91% in the simulation data, at a much-reduced computational time.
   authors: S. Vicenzo, B. Xu, H. Xu and L.-T. Hsu
   link:
