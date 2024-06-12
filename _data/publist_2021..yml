@@ -2,7 +2,7 @@
 - title: "Probabilistic Approach to Detect and Correct GNSS NLOS Signals Using an Augmented State Vector in the Extended Kalman Filter"
   image: 
   description: 
-  authors: C. Jiang, B. Xu*, and L.-T. Hsu
+  authors: C. Jiang, B. Xu, and L.-T. Hsu
   link:
     url: https://doi.org/10.1007/s10291-021-01101-6
     display: GPS Solutions 25, 72 (2021)
