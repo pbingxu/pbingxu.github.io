@@ -1,7 +1,7 @@
 ---
-title: "PolyU GNSS Signal Processing - Research"
+title: "PolyU PNT Signal Processing - Research"
 layout: textlay
-excerpt: "PolyU GNSS Signal Processing -- Research"
+excerpt: "PolyU PNT Signal Processing -- Research"
 sitemap: false
 permalink: /research/
 ---
