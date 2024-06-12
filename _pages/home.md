@@ -39,8 +39,3 @@ I am looking for passionate new **PhD students**, **Postdocs**, and **Master stu
 
 
 We are grateful for funding from PolyU, [The National Natural Science Foundation (NSFC) of China](https://www.nsfc.gov.cn/english/site_1/index.html), [Research Grants Council (RGC) of Hong Kong](https://www.ugc.edu.hk/eng/rgc/), [Huawei Technologies Co. Ltd.](https://www.huawei.com/en/), etc.  
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-polyu.png" style="width: 250px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-polyu aae.png" style="width: 250px">
-</figure>
