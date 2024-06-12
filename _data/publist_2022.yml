@@ -11,7 +11,7 @@
 - title: "Hyperparameter Optimization of Neural Networks Based on Q-learning"
   image: 
   description: 
-  authors: X. Qi and B. Xu*
+  authors: X. Qi and B. Xu
   link:
     url: https://link.springer.com/article/10.1007/s11760-022-02377-y
     display: Signal, Image and Video Processing, published online, DOI 10.1007/s11760-022-02377-y, 8 Oct 2022
@@ -43,7 +43,7 @@
 - title: "Data Denoising Based on Hadamard Matrix Transformation and Rayleigh Quotient Maximization, Application to GNSS Signal Classification"
   image: 
   description: 
-  authors: J. Yue, B. Xu*, and L.-T. Hsu
+  authors: J. Yue, B. Xu, and L.-T. Hsu
   link:
     url: https://ieeexplore.ieee.org/document/9800923
     display: IEEE Transactions on Instrumentation and Measurement, DOI 10.1109/TIM.2022.3184357, 20 June 2022
@@ -53,7 +53,7 @@
 - title: "GNSS Code Multipath Time-frequency Analysis Using Wavelet-based Synchrosqueezing Transform in Urban Environments"
   image: 
   description: 
-  authors: A. Dey, B. Xu*, X. Lu, and N. Sharma
+  authors: A. Dey, B. Xu, X. Lu, and N. Sharma
   link:
     url: https://ieeexplore.ieee.org/document/9758726
     display: IEEE Geoscience and Remote Sensing Letters, published online, DOI 10.1109/LGRS.2022.3167738, 18 April 2022
@@ -73,7 +73,7 @@
 - title: "Carrier-Aided Dual Frequency Vectorized Tracking Architecture for NavIC Signals"
   image: 
   description: 
-  authors: A. Dey, K. Iyer, B. Xu*, N. Sharma, and L.-T. Hsu
+  authors: A. Dey, K. Iyer, B. Xu, N. Sharma, and L.-T. Hsu
   link:
     url: https://ieeexplore.ieee.org/document/9694612
     display: IEEE Transactions on Instrumentation and Measurement, 71:1-13 (2022)
