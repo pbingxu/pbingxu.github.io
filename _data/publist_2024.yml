@@ -1,6 +1,6 @@
 - title: "Random forest-based multipath parameter estimation"
   image: 
-  description: 
+  description: This paper proposes a random forest (RF)-based multipath parameter estimator that uses random forest regression for parameter estimation, thereby mitigating multipath effect. The proposed RF-based estimator shows better performance than MEDLL for signals with front-end bandwidths of lower than 6 MHz. It also works under weak signal conditions.
   authors: X. Qi, B. Xu, Z. Wang, and L.-T. Hsu
   link:
     url: https://link.springer.com/article/10.1007/s10291-024-01667-x
