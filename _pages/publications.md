@@ -1,7 +1,7 @@
 ---
-title: "PolyU GNSS Signal Processing - Publications"
+title: "PolyU PNT Signal Processing - Publications"
 layout: gridlay
-excerpt: "PolyU GNSS Signal Processing - Publications."
+excerpt: "PolyU PNT Signal Processing - Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -50,27 +50,12 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Research grants
+## Current research projects
 
-In the capacity of **PI**:<br> 
-- Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 2022~2024, NSFC for Young Scholar<br>
-- Security reinforcement for high-precision fusion positioning, 2021~2024, Industrial research collaborative project<br>
+- Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 2022~2024<br>
+- Security reinforcement for high-precision fusion positioning, 2021~2024<br>
 - Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 2022~2024, Guangdong Natural Science Foundation<br>
-- Development and verification of SLAM+RTK navigation technology for smartphones, 2023~2025, State Key Laboratory of Satellite Navigation System and Equipment Technology Open Fund Project<br>
-
-
-- A-GNSS Based Direct Position Estimation: Modelling, Implementation and Performance Assessment, 2021~2023, PolyU Start-up Fund for RAPs under the Strategic Hiring Scheme <br>
-
-In the capacity of **Co-PI**: <br>
-- Reliable Multiagent Collaborative Global Navigation Satellite System Positioning for Intelligent Transportation Systems, 2022~2025, RGC Research Impact Fund Scheme (RIF) <br>
-
-
-In the capacity of **Co-I**: <br>
-- Unlocking the potential of AI edge intelligence and cloud-edge computing for flexible robotic and facility control system, 2021~2023, Innovation and Technology Fund - Partnership Research Programme (ITF-PRP)<br>
-
-
-- Ultra-Tightly Coupled GNSS/INS Integration for Smartphone, 2018~2020, Industrial research collaborative project <br>
-
+- Development and verification of SLAM+RTK navigation technology for smartphones, 2023~2025<br>
 
 <p> &nbsp; </p>
 ## Journal Papers
