@@ -54,7 +54,7 @@ permalink: /publications/
 
 - Research on direct position estimation based GNSS and 5G positioning and GNSS/5G deep integration mechanism, 2022~2024<br>
 - Security reinforcement for high-precision fusion positioning, 2021~2024<br>
-- Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 2022~2024, Guangdong Natural Science Foundation<br>
+- Research on GNSS Vector Tracking based Anti-multipath Mechanism in Urban Environment, 2022~2024<br>
 - Development and verification of SLAM+RTK navigation technology for smartphones, 2023~2025<br>
 
 <p> &nbsp; </p>
