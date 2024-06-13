@@ -1,87 +1,95 @@
-- title: "NLOS Effect on LEO Doppler Positioning: A case Study in Hong Kong"
-  image: 
-  description: 
-  authors: Q. Zhang, L. Zhang, H. Xu, G. Zhang, and B. Xu
-  link:
-    url: https://ieeexplore.ieee.org/document/10389160
-    display: Proceedings of 2023 IEEE International Symposium On Antennas And Propagation (ISAP), Kuala Lumpur, Malaysia, 30 October 2023 - 02 November 2023, pp. 1129-1142.
-  highlight: 0
-  news2: 
-
-- title: "Machine Learning Assisted GNSS Direct Position Estimation for Urban Environments Applications"
-  image: 
-  description: 
-  authors: S. Vicenzo, X. Qi, B. Xu, and L.-T. Hsu
-  link:
-    url: https://www.ion.org/publications/abstract.cfm?articleID=19567
-    display: Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 1129-1142.
-  highlight: 0
-  news2: 
-
-- title: "Modeling and Validation of GNSS Multipath-Induced Doppler Tracking Error"
-  image: 
-  description: 
-  authors: J. Fang, L. Zhang, G. Zhang, B. Xu, and L.-T. Hsu
-  link:
-    url: https://www.ion.org/publications/abstract.cfm?articleID=19549
-    display: Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 931-940.
-  highlight: 0
-  news2: 
-  
 - title: "Design of OFDM Navigation Signal and Receiver for Accurate Ranging Estimation in a Power-Limited CubeSat Transmitter"
   image: 
   description: 
   authors: Y. He, S. Li, and B. Xu
   link:
     url: https://www.ion.org/publications/abstract.cfm?articleID=19511
-    display: Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 712-722.
+    display: ION ITM 2024, Long Beach, California, January 23-25, 2024.
   highlight: 0
   news2: 
   
+- title: "Modeling and Validation of GNSS Multipath-Induced Doppler Tracking Error"
+  image: 
+  description: 
+  authors: J. Fang, L. Zhang, G. Zhang, B. Xu, and L.-T. Hsu
+  link:
+    url: https://www.ion.org/publications/abstract.cfm?articleID=19549
+    display: ION ITM 2024, Long Beach, California, January 23-25, 2024.
+  highlight: 0
+  news2: 
+  
+- title: "Machine Learning Assisted GNSS Direct Position Estimation for Urban Environments Applications"
+  image: 
+  description: 
+  authors: S. Vicenzo, X. Qi, B. Xu, and L.-T. Hsu
+  link:
+    url: https://www.ion.org/publications/abstract.cfm?articleID=19567
+    display: ION ITM 2024, Long Beach, California, January 23-25, 2024.
+  highlight: 0
+  news2: 
+
+- title: "NLOS Effect on LEO Doppler Positioning: A Case Study in Hong Kong"
+  image: 
+  description: 
+  authors: Q. Zhang, L. Zhang, H. Xu, G. Zhang, and B. Xu
+  link:
+    url: https://ieeexplore.ieee.org/document/10389160
+    display: 2023 IEEE International Symposium On Antennas And Propagation (ISAP), Kuala Lumpur, Malaysia, 30 October 2023 - 02 November 2023.
+  highlight: 0
+  news2: 
+
+- title: "Machine learning assisted multipath signal parameter estimation and its evaluation under weak signal environment"
+  image: 
+  description: 
+  authors: X. Qi and B. Xu
+  link:
+    url: https://ieeexplore.ieee.org/document/10140113
+    display: 2023 IEEE/ION Position, Location and Navigation Symposium (PLANS), Monterey, CA, USA, April 24-27, 2023.
+  highlight: 0
+  news2: 
+
+- title: "A Graphical Way of Continuous GNSS Spoofing Detection at the Baseband Signal Level"
+  image: 
+  description: 
+  authors: J. Fang, J. Yue, and B. Xu
+  link:
+    url: https://www.ion.org/publications/abstract.cfm?articleID=18628
+    display: ION ITM 2023, Long Beach, California, January 24-26,2023.
+  highlight: 0
+  news2: 
+  
+- title: "Performance Improvement and Assessment of NavIC Software Receiver"
+  image: 
+  description: 
+  authors: A. Dey, P. Singh, N. Sharma, B. Xu, and L.-T. Hsu
+  link:
+    url: https://ieeexplore.ieee.org/document/10227725
+    display: 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Gandhinagar, Gujarat, India, 18-21 December 2022.
+  highlight: 0
+  news2: 
+
 - title: "3DMA Sky Visibility Matching: An Example using a Simulated LEO Constellation"
   image: 
   description: 
   authors: H. Xu, B. Xu and L.-T. Hsu
   link:
     url: https://www.ion.org/publications/abstract.cfm?articleID=18266
-    display: Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2022, pp. 686-700
+    display: ION ITM 2022, Long Beach, California, January 25-27, 2022
   highlight: 0
   news2: 
 
-- title: "Adaptive GNSS Positioning Strategy Switching: Metric Modelling, Algorithm Design and Performance Analysis"
+
+- title: "An Absolute-Position-Aided Code Discriminator Towards GNSS Receivers for Multipath Mitigation"
   image: 
   description: 
-  authors: J. Fang, S. Vicenzo, J. Marcelino and B. Xu
+  authors: Y. Luo, L.-T. Hsu, Y. Xiang, B. Xu, and C. Yu
   link:
-    url: 
-    display: The International Conference on Smart Living, Hong Kong, March 31-April 1, 2022
+    url: https://www.ion.org/publications/abstract.cfm?articleID=18001
+    display: ION GNSS+ 2021, St. Louis, Missouri, September 20-24, 2021
   highlight: 0
   news2: 
 
-
-- title: "Ultra-tight GNSS/UWB integration for seamless indoor/outdoor pedestrian navigation"
-  image: 
-  description: 
-  authors: S. Vicenzo, J. Marcelino and B. Xu
-  link:
-    url: 
-    display: The International Conference on Smart Living, Hong Kong, March 31-April 1, 2022
-  highlight: 0
-  news2: 
-
-
-
-- title: "Vector Tracking Loop Based Mixed-Level Satellite Signal Type Classification in Urban Areas"
-  image: 
-  description: 
-  authors: Z. Li, J. Fang and B. Xu
-  link:
-    url: 
-    display: The International Conference on Smart Living, Hong Kong, March 31-April 1, 2022
-  highlight: 0
-  news2: 
-
-
+   
 - title: "Intermediate Frequency Level GPS Multipath Simulator based on Vector Tracking and Ray-tracing"
   image: 
   description: 
@@ -91,12 +99,11 @@
     display: ION ITM 2020, San Diego, California, January 21-24, 2020
   highlight: 0
   news2: 
-  
-    
+      
 - title: "NLOS Detection and Compensation using a Vector Tracking-based GPS Software Receiver"
   image: 
   description: 
-  authors: B. Xu, L.-T. Hsu
+  authors: B. Xu and L.-T. Hsu
   link:
     url: https://www.ion.org/publications/abstract.cfm?articleID=16777
     display: ION PNT 2019, Honolulu, Hawaii, April 8-11, 2019
