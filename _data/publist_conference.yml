@@ -1,3 +1,33 @@
+- title: "Machine Learning Assisted GNSS Direct Position Estimation for Urban Environments Applications"
+  image: 
+  description: 
+  authors: S. Vicenzo, X. Qi, B. Xu, and L.-T. Hsu
+  link:
+    url: https://www.ion.org/publications/abstract.cfm?articleID=19567
+    display: Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 1129-1142.
+  highlight: 0
+  news2: 
+
+- title: "Modeling and Validation of GNSS Multipath-Induced Doppler Tracking Error"
+  image: 
+  description: 
+  authors: J. Fang, L. Zhang, G. Zhang, B. Xu, and L.-T. Hsu
+  link:
+    url: https://www.ion.org/publications/abstract.cfm?articleID=19549
+    display: Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 931-940.
+  highlight: 0
+  news2: 
+  
+- title: "Design of OFDM Navigation Signal and Receiver for Accurate Ranging Estimation in a Power-Limited CubeSat Transmitter"
+  image: 
+  description: 
+  authors: Y. He, S. Li, and B. Xu
+  link:
+    url: https://www.ion.org/publications/abstract.cfm?articleID=19511
+    display: Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 712-722.
+  highlight: 0
+  news2: 
+  
 - title: "3DMA Sky Visibility Matching: An Example using a Simulated LEO Constellation"
   image: 
   description: 
