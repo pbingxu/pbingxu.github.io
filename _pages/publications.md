@@ -58,7 +58,6 @@ permalink: /publications/
 - Development and verification of SLAM+RTK navigation technology for smartphones, 2023~2025<br>
 
 <p> &nbsp; </p>
-<p> &nbsp; </p>
 
 ## Research interests
 
@@ -67,7 +66,6 @@ permalink: /publications/
 - Cellular signal positioning
 - GNSS radio frequency interference detection and localization
 
-<p> &nbsp; </p>
 <p> &nbsp; </p>
 ## Journal Papers
 
