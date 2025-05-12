@@ -1,3 +1,9 @@
+- date: 1 May 2025
+  headline: PhD student, Sijia Li, presented our research on spoofing mitigation based on 5G direct position estimation for precise localization in dense urban areas at the IEEE/ION PLANS 2025 conference.
+
+- date: 30 April 2025
+  headline: PhD student, Jingxiaotao Fang, presented our research on spoofing mitigation based on Doppler frequency at the IEEE/ION PLANS 2025 conference. We estimate the authentic signal Doppler frequency based on receiver Doppler measurements under spoofing. The estimated Doppler frequency is then used to correct pseudorange measurements.
+  
 - date: 15 Sep 2023
   headline: PhD student, Sergio, presented our research on GNSS DPE at ION GNSS+ 2023. We experimentally evaluate DPE's performance and show its model mismatch problem!
 
