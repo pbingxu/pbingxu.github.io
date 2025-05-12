@@ -48,7 +48,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
 
 ## Current research projects
 
