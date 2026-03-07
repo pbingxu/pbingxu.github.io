@@ -1,6 +1,6 @@
 - title: "Modelling and Assessing Reinforcement Learning-assisted GNSS Multipath Estimation and Mitigation for Urban Navigation"
-  image: publist-GPSS-Sergio-2024.jpg 
-  description: This paper proposes 
+  image: 
+  description: 
   authors: X. Qi and B. Xu
   link:
     url: https://ieeexplore.ieee.org/document/11218037
@@ -9,8 +9,8 @@
   news2:
   
 - title: "Sparse Decomposition-Based Anti-Spoofing Framework for GNSS Receiver: Spoofing Detection, Classification, and Position Recovery"
-  image: publist-GPSS-Sergio-2024.jpg 
-  description: This paper proposes 
+  image: 
+  description: 
   authors: Y. He, X. Zhuang and B. Xu
   link:
     url: https://www.mdpi.com/2072-4292/17/15/2703
@@ -19,8 +19,8 @@
   news2: 
   
 - title: "Characterization and Validation of GNSS Multipath-Induced Doppler Measurement Error"
-  image: publist-GPSS-Sergio-2024.jpg
-  description: This paper proposes a random forest (RF)-based multipath parameter estimator that uses random forest regression for parameter estimation, thereby mitigating multipath effect. The proposed RF-based estimator shows better performance than MEDLL for signals with front-end bandwidths of lower than 6 MHz. It also works under weak signal conditions.
+  image:  
+  description:
   authors: J. Fang, L. Zhang, G. Zhang, B. Xu and L.-T. Hsu
   link:
     url: https://ieeexplore.ieee.org/document/10737113
