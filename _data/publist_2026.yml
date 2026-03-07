@@ -1,1 +1,32 @@
 
+- title: "Golden Section Search-based GNSS Multipath Mitigation for Enhanced Urban Positioning"
+  image:  
+  description: 
+  authors: X. Qi and B. Xu
+  link:
+    url: https://ieeexplore.ieee.org/document/11408023
+    display: IEEE Transactions on Instrumentation and Measurement, Early Access, doi: 10.1109/TIM.2026.3666007.
+  highlight: 0
+  news2:
+
+  - title: "From SPP to RTK: promoting the satellite navigation potential of acoustically excited antenna"
+  image:  
+  description: 
+  authors: S. Wang, Y. Fu, R. Hu, D. Li, B. Xu, R. Liu, Y. Song, J. Li, B. Fang, W. Lin, Z. Zeng, and X. Zhu
+  link:
+    url: https://link.springer.com/article/10.1007/s10291-025-02018-0
+    display: GPS Solutions, 30(70), Feb 2026.
+  highlight: 0
+  news2:
+
+  - title: "Physics-informed neural network for predicting orbital parameters of Low Earth Orbit satellites using two line element dataset"
+  image:  
+  description: 
+  authors: M. S. Mahmud, Y. Jiang, R. Liu, Z. Zhou, and B. Xu
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0273117726000414
+    display: Advances in Space Research, Jan 2026, doi: 10.1016/j.asr.2026.01.017.
+  highlight: 0
+  news2:
+
+  
