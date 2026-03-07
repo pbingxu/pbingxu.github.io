@@ -18,8 +18,8 @@
   highlight: 0
   news2: 
   
-  - title: "Characterization and Validation of GNSS Multipath-Induced Doppler Measurement Error"
-  image: publist-GPSS-Qi X-2024.jpg
+- title: "Characterization and Validation of GNSS Multipath-Induced Doppler Measurement Error"
+  image: publist-GPSS-Sergio-2024.jpg
   description: This paper proposes a random forest (RF)-based multipath parameter estimator that uses random forest regression for parameter estimation, thereby mitigating multipath effect. The proposed RF-based estimator shows better performance than MEDLL for signals with front-end bandwidths of lower than 6 MHz. It also works under weak signal conditions.
   authors: J. Fang, L. Zhang, G. Zhang, B. Xu and L.-T. Hsu
   link:
