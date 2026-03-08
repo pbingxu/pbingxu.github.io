@@ -4,6 +4,10 @@
 - date: 23 Feb 2026
   headline: Our paper on golden section (GS) search-based GNSS multipath mitigation for enhanced urban positioning is now available at https://ieeexplore.ieee.org/document/11408023. We use the GS algorithm to directly estimate the direct-path code delay under multiple reflections and even when the reflections are dominant.
 
+- date: 23 Jan 2026
+  headline: We proposed an OFDM-based LEO navigation signal and validated its navigation performance with simulations and experiments. By jointly designing the signal and receiver, we achieve high-precision ranging with relatively low complexity under low SNR and large carrier frequency offsets. The paper is accessible at https://navi.ion.org/content/73/1/navi.741.
+
+
 - date: 30 April 2025
   headline: PhD student, Jingxiaotao Fang, presented our research on spoofing mitigation based on Doppler frequency at the IEEE/ION PLANS 2025 conference. We estimate the authentic signal Doppler frequency based on receiver Doppler measurements under spoofing. The estimated Doppler frequency is then used to correct pseudorange measurements.
   
