@@ -1,5 +1,8 @@
-- date: 1 May 2025
-  headline: PhD student, Sijia Li, presented our research on spoofing mitigation based on 5G direct position estimation for precise localization in dense urban areas at the IEEE/ION PLANS 2025 conference.
+- date: 8 Mar 2026
+  headline: PhD candidate, Sergio, will research on GNSS positioning with multicorrelator as an alternative to direct position estimation (DPE) at ION’s Pacific PNT conference, which will take place from April 13-16, 2026, in Hawaii. Visit Section B6: Emerging PNT Consumer Applications on Wednesday, April 15, 2026.
+
+- date: 23 Feb 2026
+  headline: Our paper on golden section (GS) search-based GNSS multipath mitigation for enhanced urban positioning is now available at https://ieeexplore.ieee.org/document/11408023. We use the GS algorithm to directly estimate the direct-path code delay under multiple reflections and even when the reflections are dominant.
 
 - date: 30 April 2025
   headline: PhD student, Jingxiaotao Fang, presented our research on spoofing mitigation based on Doppler frequency at the IEEE/ION PLANS 2025 conference. We estimate the authentic signal Doppler frequency based on receiver Doppler measurements under spoofing. The estimated Doppler frequency is then used to correct pseudorange measurements.
