@@ -1,4 +1,4 @@
-- name: Bing Xu
+- name: Bing XU
   photo: XU BING.jpg
   info: Assistant professor, started from Jan 2024
   email: pbing.xu@polyu.edu.hk
@@ -8,7 +8,7 @@
   education3: PhD, Navigation, Guidance and Control, <a href="https://english.njust.edu.cn/">Nanjing University of Science and Technology (NJUST)</a>, China, 2018
   education4: BEng, Network Engineering, NJUST, China, 2012
     
-- name: Qi Zhang
+- name: Qi ZHANG
   photo: Qi.jpg
   info: PhD Student, started from Sep 2022
   email: qi915.zhang@connect.polyu.hk
@@ -17,7 +17,7 @@
   education2: BEng, Xidian University
   education3: GNSS/LEO positioning
   
-- name: Jingxiaotao Fang
+- name: Jingxiaotao FANG
   photo: FangJingxiaotao.jpg
   info: PhD Student, started from Sep 2022
   email: jingxiaotao.fang@connect.polyu.hk
@@ -25,7 +25,7 @@
   education1: BEng (Honours), Aviation Engineering, PolyU
   education2: Statistical GNSS signal processing, GNSS spoofing defense
   
-- name: Sergio Vicenzo
+- name: Sergio VICENZO
   photo: Sergio.jpg
   info: PhD Student, started from Sep 2022
   email: sergio.vicenzo@connect.polyu.hk
@@ -33,7 +33,7 @@
   education1: BEng (Honours), Aviation Engineering, PolyU
   education2: Direct position estimation, GNSS/5G integrated positioning
      
-- name: Xin Qi
+- name: Xin QI
   photo: Xin.jpg
   info: PhD Student, started from Sep 2022
   email: xin-xq.qi@polyu.edu.hk
@@ -42,7 +42,7 @@
   education2: BEng, Zhengzhou University
   education3: Deep learning assisted GNSS positioning
      
-- name: Yuxin He
+- name: Yuxin HE
   photo: Yuxin He.jpg
   info: PhD Student, started from Sep 2023
   email: xin-xq.qi@polyu.edu.hk
@@ -51,7 +51,7 @@
   education2: BEng, South China Agriculture University
   education3: Satellite receiver technology, LEO positioning, navigation, and timing 
 
-- name: Zihong Zhou
+- name: Zihong ZHOU
   photo: Samba.jpg
   info: PhD Student, started from Jan 2024
   email: samba.zhou@connect.polyu.hk
@@ -60,7 +60,7 @@
   education2: BEng, University of Bristol
   education3: LEO positioning, navigation, and timing, Spaceborne timing receiver
 
-- name: Sijia Li
+- name: Sijia LI
   photo: Sijia.jpg
   info: PhD Student, started from Sep 2024
   email: u3603380@connect.hku.hk
@@ -69,7 +69,7 @@
   education2: BEng, Beijing University of Technology 
   education3: Telecommunications and navigation
 
-- name: Rui Sun
+- name: Rui SUN
   photo: Rui.jpg
   info: Master of Philosophy (MPhil) Student
   email: rrrui.sun@connect.polyu.hk
