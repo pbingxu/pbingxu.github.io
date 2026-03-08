@@ -5,7 +5,15 @@ excerpt: "PolyU PNT Signal Processing - Publications."
 sitemap: false
 permalink: /publications/
 ---
+## Research interests
+- GNSS signal processing
+- Multipath/non-line-of-sight mitigation
+- GNSS spoofing detection and mitigation
+- Low Earth orbit positioning, navigation, and timing (LEO PNT)
+- Cellular signal positioning
 
+<p> &nbsp; </p>
+ 
 ## Research highlights
 
 (For a full list of publications, please see [below](#journal-papers) or go to [Google Scholar](https://scholar.google.com/citations?user=DN78yRMAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3677-1109), or [ResearchGate](https://www.researchgate.net/profile/Bing-Xu-66?ev=hdr_xprf)
