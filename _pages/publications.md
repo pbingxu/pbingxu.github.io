@@ -6,6 +6,14 @@ sitemap: false
 permalink: /publications/
 ---
 
+## Research interests
+
+- GNSS signal processing
+- Low Earth orbit satellite positioning, navigation, and timing (LEO PNT)
+- Cellular signal positioning
+- GNSS radio frequency interference detection and localization
+
+<p> &nbsp; </p>
 
 
 ## Research highlights
@@ -51,14 +59,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Research interests
 
-- GNSS signal processing
-- Low Earth orbit satellite positioning, navigation, and timing (LEO PNT)
-- Cellular signal positioning
-- GNSS radio frequency interference detection and localization
-
-<p> &nbsp; </p>
 ## Journal Papers
 
 #### 2026
