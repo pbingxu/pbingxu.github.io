@@ -76,7 +76,15 @@
   number_educ: 2
   education1: BEng, Aeronautics and Astronautics Engineering, Shanghai Jiao Tong University
   education2: 5G/GNSS integrated positioning
-
+  
+- name: Zhilin GAO
+  photo: Zhilin.jpg
+  info: Master of Philosophy (MPhil) Student
+  email: zhilin2.gao@connect.polyu.hk
+  number_educ: 3
+  education1: BEng in Electrical Engineering and Automation, Nanjing Normal University
+  education2: BEng (Hons) in Electrical and Electronic Engineering, Northumbria University
+  education3: Multi-sensor processing
   
 
   
